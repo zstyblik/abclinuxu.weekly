@@ -1,0 +1,14 @@
+--- html2text.py.orig	2010-02-03 16:44:37.000000000 +0100
++++ html2text.py	2010-02-20 17:33:13.430576003 +0100
+@@ -388,7 +388,10 @@
+                 newa = []
+                 for link in self.a:
+                     if self.outcount > link['outcount']:
+-                        self.out("   ["+`link['count']`+"]: " + urlparse.urljoin(self.baseurl, link['href'])) 
++                        # HAXX @ stybla
++                        myurl = urlparse.urljoin(self.baseurl, link['href'])
++                        if myurl.startswith( "/"): myurl = 'http://www.abclinuxu.cz' + myurl
++                        self.out("   ["+`link['count']`+"]: " + myurl)
+                         if link.has_key('title'): self.out(" ("+link['title']+")")
+                         self.out("\n")
+                     else:
