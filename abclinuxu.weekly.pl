@@ -29,6 +29,7 @@ use strict;
 use warnings;
 use Mail::Sendmail;
 use MIME::Base64;
+use Switch;
 
 # Settings
 my $offset = 0;
@@ -39,6 +40,15 @@ my $link = "http://www.abclinuxu.cz/History?type=XXX&from=YYY"
 my $mailFrom = 'root@localhost';
 my @recipients = qw(root@localhost);
 
+sub printHelp {
+	print "Get digest of ABCLinuxu's articles/news for week.\n\n";
+	print "Parameters are:\n";
+	print "\t-a\tfetch and mail articles\n";
+	print "\t-h\tprint this help\n";
+	print "\t-n\tfetch and mail news\n";
+	exit 1;
+}
+
 # Main
 if ($link !~ /^http[s]?:\/\//) {
 	die("URL makes no sense to me.\n");
@@ -46,6 +56,26 @@ if ($link !~ /^http[s]?:\/\//) {
 
 unless ((-e "html2text.py") && (-x "html2text.py")) {
 	die("html2text.py not found or is not executable.\n");
+}
+
+my $numArgs = $#ARGV + 1;
+my $toFetch = '';
+if ($numArgs == 0) {
+	&printHelp;
+} else {
+	switch ($ARGV[0]) {
+		case '-a' {
+			$toFetch = 'articles';
+		}
+		case '-h' {
+			&printHelp;
+		}
+		case '-n' {
+			$toFetch = 'news';
+		} else {
+			&printHelp;
+		}
+	}
 }
 
 my $htmlCollected = '';
@@ -64,7 +94,7 @@ my $week = int($yday/7);
 while ($offset <= $offsetLimit) {
 	my $htmlCollect = 0;
 	my $url = $link;
-	$url =~ s/XXX/news/;
+	$url =~ s/XXX/$toFetch/;
 	$url =~ s/YYY/$offset/;
 	$url =~ s/ZZZ/$count/;
 	for my $htmlLine (`curl -s '$url'`) {
