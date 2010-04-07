@@ -29,67 +29,96 @@ use strict;
 use warnings;
 use Mail::Sendmail;
 use MIME::Base64;
-use Switch;
+use Time::Local;
+use LWP;
 
 # Settings
-my $offset = 0;
 my $count = 50;
-my $offsetLimit = 2;
+my $debug = 0;
 my $link = "http://www.abclinuxu.cz/History?type=XXX&from=YYY"
 	."&count=ZZZ&orderBy=create&orderDir=desc";
+my $offset = 0;
+my $offsetLimit = 2;
+## mail
 my $mailFrom = 'root@localhost';
-my @recipients = qw(root@localhost);
+my @recipients = qw(joe@localhost);
 
+# desc: find time in HTML line in Articles section
+# $textLine: string;
+# @return: string;
+sub getTimeArticles {
+	my $textLine = shift;
+	$textLine =~ s/^\s+//g;
+	$textLine =~ s/\s+$//g;
+	my @chunks = split(' ', $textLine);
+	return undef unless ($chunks[0] =~ /[0-9]+/);
+	return $chunks[0];
+}
+# desc: find time in HTML line in News section
+# $textLine: string;
+# @return: string;
+sub getTimeNews {
+	my $textLine = shift;
+	my $cPos = index($textLine, "|");
+	my $datePart = substr($textLine, $cPos+2, length($textLine));
+	$cPos = index($datePart, " ");
+	my $dateFound = substr($datePart, 0, $cPos);
+	return undef unless ($dateFound =~ /[0-9]+/);
+	return $dateFound;
+}
+# desc: print help
 sub printHelp {
 	print "Get digest of ABCLinuxu's articles/news for week.\n\n";
 	print "Parameters are:\n";
-	print "\t-a\tfetch and mail articles\n";
+	print "\t-a\tfetch and mail articles (can't be used with -n)\n";
 	print "\t-h\tprint this help\n";
-	print "\t-n\tfetch and mail news\n";
+	print "\t-n\tfetch and mail news (can't be used with -a)\n";
 	exit 1;
 }
 
-# Main
+### Main ###
 if ($link !~ /^http[s]?:\/\//) {
 	die("URL makes no sense to me.\n");
 } # if $link !~ /^http
 
-unless ((-e "html2text.py") && (-x "html2text.py")) {
-	die("html2text.py not found or is not executable.\n");
+unless ((-e "./html2text.py") && (-x "./html2text.py")) {
+        die("html2text.py not found or is not executable.\n");
 }
 
 my $numArgs = $#ARGV + 1;
-my $toFetch = '';
-if ($numArgs == 0) {
+if ($numArgs == 0 || $numArgs > 1) {
 	&printHelp;
-} else {
-	switch ($ARGV[0]) {
-		case '-a' {
-			$toFetch = 'articles';
-		}
-		case '-h' {
-			&printHelp;
-		}
-		case '-n' {
-			$toFetch = 'news';
-		} else {
-			&printHelp;
-		}
-	}
 }
 
+
+my $toFetch = 'nic';
+my $collectStart = 'nikde';
+my $fetchType = 'zadny';
+my $dateNeedle = 'zadna';
+
+while (1) {
+	if ($ARGV[0] eq '-a') {
+		$toFetch = 'articles';
+		$collectStart = 'článků';
+		$fetchType = 'clanky';
+		$dateNeedle = 'autori';
+		last;
+	}
+	if ($ARGV[0] eq '-n') {
+		$toFetch = 'news';
+		$collectStart = 'zpráviček';
+		$fetchType = 'zpravicky';
+		$dateNeedle = 'lide';
+		last;
+	}
+	&printHelp;
+}
+
+my $browser = LWP::UserAgent->new;
+my $dateLine = 0; # 0/1 internal control
+my $dateStop = time-691200; # -1 week
 my $htmlCollected = '';
 my $printOut = '';
-# one week later...
-my ($sec,$min,$hour,$day,$month,$year,$wday,$yday,$isdst) = 0;
-($sec,$min,$hour,$day,$month,$year) = localtime(time-691200);
-$month+= 1;
-my $dateStop = $day.".".$month.".".$year;
-
-($sec,$min,$hour,$day,$month,$year,$wday,$yday,$isdst) = 
-	localtime(time);
-$year = 1900 + $year;
-my $week = int($yday/7);
 
 while ($offset <= $offsetLimit) {
 	my $htmlCollect = 0;
@@ -97,38 +126,58 @@ while ($offset <= $offsetLimit) {
 	$url =~ s/XXX/$toFetch/;
 	$url =~ s/YYY/$offset/;
 	$url =~ s/ZZZ/$count/;
-	for my $htmlLine (`curl -s '$url'`) {
+	print $url."\n" if ($debug == 1);
+	my $response = $browser->get( $url ) 
+		or die("Unable to get URL '$url'.");
+	for my $htmlLine ( split(/\n/, $response->content) ) {
 		chomp($htmlLine);
 		$htmlLine =~ s/^\s+//;
 		$htmlLine =~ s/\s+$//;
-		if ($htmlLine eq "<h1>Archiv zpráviček<\/h1>") {
+		if ($htmlLine eq "<h1>Archiv $collectStart<\/h1>") {
 			$htmlCollect = 1;
-#			print "Beginning to collect data\n";
+			print "Beginning to collect data\n" if ($debug == 1);
 		} # if $lineTmp eq
 		if ($htmlCollect == 1 
 			&& $htmlLine eq "<form action=\"/History\">") 
 		{
-#			print "Found stopper\n";
+			print "Found stopper\n" if ($debug == 1);
 			last;
 		} # if $htmlCollect == 1
 		if ($htmlCollect == 0) {
 			next;
 		} # if $htmlCollect
-		if ($htmlLine =~ /^<a href=\"\/lide\//) {
-			my $tmp = $htmlLine;
-			my $cPos = index($tmp, "|");
-			$tmp = substr($tmp, $cPos+2, length($tmp));
-			$cPos = index($tmp, " ");
-			$tmp = substr($tmp, 0, $cPos);
-			if ($tmp eq $dateStop) {
-#				print "Date stop found\n";
+
+		if ($htmlLine eq '<p class="meta-vypis">') {
+			print "Pre-date\n" if ($debug == 1);
+			$dateLine = 1;
+		}
+		if ($dateLine == 1 && $htmlLine eq '</p>') {
+			$dateLine = 0;
+		}
+		if ($dateLine == 1 
+			&& $htmlLine =~ /[0-9]+\.[0-9]+\.[0-9]+ [0-9]+:[0-9]+/) {
+			my $tmp;
+			if ($toFetch eq 'articles') {
+				$tmp = &getTimeArticles($htmlLine);
+			} else {
+				$tmp = &getTimeNews($htmlLine);
+			}
+			$dateLine = 0 unless ($tmp);
+			next unless ($tmp && $tmp =~ /[0-9]+/);
+			print $tmp."\n" if ($debug == 1);
+			my @f_date = split(/\./, $tmp);
+			my $f_time = timelocal(0, 0, 12, $f_date[0], $f_date[1] - 1, 
+				$f_date[2] - 1900);
+			print $f_time." X ".$dateStop."\n" if ($debug == 1);
+			if ($f_time < $dateStop) {
+				print "Date stop found\n" if ($debug == 1);
 				$offset = 10000;
 				last;
-			} # if $tmp eq $dateStop
-		} # if $htmlLine =~ /^<a
+			} # if $tmp < $dateStop
+		} # if $dateLine == 1 ...
 		if ($htmlLine eq "<hr>") {
 			$htmlCollected.= $htmlLine."\n";
-			$printOut.= `echo '$htmlCollected' | python html2text.py`;
+			$printOut.= `echo '$htmlCollected' | ./html2text.py`;
 			$htmlCollected = '';
 			next;
 		} # if $htmlLine eq hr
@@ -137,7 +186,12 @@ while ($offset <= $offsetLimit) {
 	$offset++;
 } # while $offset =< $offsetLimit
 
-my $mailSubj = "AbcLinuxu zpravicky ".$week."/".$year;
+my ($sec,$min,$hour,$day,$month,$year,$wday,$yday,$isdst) = 
+	localtime(time);
+$year = 1900 + $year;
+my $week = int($yday/7);
+
+my $mailSubj = "AbcLinuxu ".$fetchType." ".$week."/".$year;
 #$mailSubj = '=?UTF-8?B?'.encode_base64($mailSubj, '?=');
 
 my %mail = (
@@ -146,7 +200,8 @@ my %mail = (
 	'X-Mailer' => "Mail::Sendmail version $Mail::Sendmail::VERSION",
 );
 $mail{'Content-Type'} = 'text/plain; charset=UTF-8';
-$mail{'Content-Transfer-Encoding'} = 'base64';
+#$mail{'Content-Transfer-Encoding'} = 'base64';
+$mail{'Content-Transfer-Encoding'} = 'quoted-printable';
 $mail{'smtp'} = 'localhost';
 $mail{'message:'} = $printOut;
 
@@ -155,6 +210,3 @@ for my $recipient (@recipients) {
 	sendmail(%mail);
 } # for my $recipient
 
-#print $printOut."\n";
-
-1;
