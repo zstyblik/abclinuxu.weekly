@@ -141,6 +141,7 @@ while ($offset <= $offsetLimit) {
 			&& $htmlLine eq "<form action=\"/History\">") 
 		{
 			print "Found stopper\n" if ($debug == 1);
+			$offset = 99999;
 			last;
 		} # if $htmlCollect == 1
 		if ($htmlCollect == 0) {
