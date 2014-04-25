@@ -27,6 +27,7 @@
 #
 use strict;
 use warnings;
+use File::Temp qw/tempfile/;
 use Mail::Sendmail;
 use MIME::Base64;
 use Time::Local;
@@ -118,7 +119,6 @@ my $browser = LWP::UserAgent->new;
 my $dateLine = 0; # 0/1 internal control
 my $dateStop = time-691200; # -1 week
 my $htmlCollected = '';
-my $printOut = '';
 
 while ($offset <= $offsetLimit) {
 	my $htmlCollect = 0;
@@ -176,16 +176,17 @@ while ($offset <= $offsetLimit) {
 				last;
 			} # if $tmp < $dateStop
 		} # if $dateLine == 1 ...
-		if ($htmlLine eq "<hr>") {
-			$htmlCollected.= $htmlLine."\n";
-			$printOut.= `echo '$htmlCollected' | ./html2text.py`;
-			$htmlCollected = '';
-			next;
-		} # if $htmlLine eq hr
 		$htmlCollected.= $htmlLine."\n";
 	} # for my $htmlLine
 	$offset++;
 } # while $offset =< $offsetLimit
+
+my ($fh_tmp, $filename_tmp) = tempfile();
+print $fh_tmp $htmlCollected;
+close($fh_tmp);
+
+my $printOut = `cat $filename_tmp | python html2text.py`;
+unlink $filename_tmp; 
 
 my ($sec,$min,$hour,$day,$month,$year,$wday,$yday,$isdst) = 
 	localtime(time);
