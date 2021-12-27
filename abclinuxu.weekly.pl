@@ -18,7 +18,7 @@
 # - ADD articles too
 #
 # Requires: 
-# - Python, html2text.py (patched)
+# - Python3 with HTML2Text
 #
 # Licence:
 # You want my car's licence plate again, or what?
@@ -82,8 +82,8 @@ if ($link !~ /^http[s]?:\/\//) {
 	die("URL makes no sense to me.\n");
 } # if $link !~ /^http
 
-unless ((-e "./html2text.py") && (-x "./html2text.py")) {
-        die("html2text.py not found or is not executable.\n");
+unless ((-e "./html2markdown.py") && (-x "./html2markdown.py")) {
+        die("html2markdown.py not found or is not executable.\n");
 }
 
 my $numArgs = $#ARGV + 1;
@@ -185,7 +185,7 @@ my ($fh_tmp, $filename_tmp) = tempfile();
 print $fh_tmp $htmlCollected;
 close($fh_tmp);
 
-my $printOut = `cat $filename_tmp | python html2text.py`;
+my $printOut = `cat $filename_tmp | python3 ./html2markdown.py --reference-links --base-url http://www.abclinuxu.cz`;
 unlink $filename_tmp; 
 
 my ($sec,$min,$hour,$day,$month,$year,$wday,$yday,$isdst) = 
