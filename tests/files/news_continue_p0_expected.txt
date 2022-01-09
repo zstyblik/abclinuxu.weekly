@@ -1,0 +1,27 @@
+<h1>Archiv zpráviček</h1>
+
+<h3 class="st_nadpis"><a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860">Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860</a></h3>
+<p><p>Flatpak 1.12.3 a 1.10.6 <a href="https://github.com/flatpak/flatpak/security/advisories/GHSA-qpjc-vq3c-572j">řeší bezpečnostní chybu</a> <a href="https://security-tracker.debian.org/tracker/CVE-2021-43860">CVE-2021-43860</a>. Oprávnění zobrazována při instalaci aplikace se nemusela shodovat se skutečnými požadovanými oprávněními. Aplikaci tak mohla být udělena oprávnění, se kterými by uživatel nesouhlasil.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 22:33 |
+<a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860">Komentáře: 0</a>
+</p>
+<hr>
+
+
+
+<h3 class="st_nadpis"><a href="/zpravicky/rust-1.58.0" title="Rust 1.58.0">Rust 1.58.0</a></h3>
+<p><p><a href="https://blog.rust-lang.org/2022/01/13/Rust-1.58.0.html">Byla vydána</a> verze 1.58.0 programovacího jazyka <a href="/software/programovani/jazyky/rust">Rust</a> (<a href="https://cs.wikipedia.org/wiki/Rust_(programovac%C3%AD_jazyk)">Wikipedie</a>). Podrobnosti v <a href="https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1580-2022-01-13">poznámkách k vydání</a>. Vyzkoušet Rust lze například na stránce <a href="https://doc.rust-lang.org/stable/rust-by-example/">Rust by Example</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 20:44 |
+<a href="/zpravicky/rust-1.58.0" title="Rust 1.58.0">Komentáře: 0</a>
+</p>
+<hr>
+
+
+<h3 class="st_nadpis"><a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="Aktuální stav přepisu desktopového prostředí COSMIC do Rustu">Aktuální stav přepisu desktopového prostředí COSMIC do Rustu</a></h3>
+<p><p>Pop!_OS je linuxová distribuce vycházející z Ubuntu předinstalována na počítačích společnosti System76. Její vývojáři v listopadu loňského roku <a href="/zpravicky/pop-os-bude-mit-vlastni-desktopove-prostredi-napsane-v-rustu">oznámili</a>, že své desktopové prostředí <a href="/zpravicky/cosmic-nove-desktopove-prostredi-v-pop-os">COSMIC</a> vycházející z GNOME Shellu přepíšou do Rustu. Eduardo Flores v <a href="https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/">příspěvku na svém blogu</a> informuje o aktuálním stavu.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 4.1.2022 12:00 |
+<a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="Aktuální stav přepisu desktopového prostředí COSMIC do Rustu">Komentáře: 5</a>, poslední dnes 21:42
+</p>

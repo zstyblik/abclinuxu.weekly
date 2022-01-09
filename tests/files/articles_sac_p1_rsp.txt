@@ -1,0 +1,1196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/strict.dtd" >
+<html lang="cs">
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="Robots" content="index,follow">
+    <title>Výpis článků</title>
+    <link rel="stylesheet" type="text/css" href="/jquery-theme/ui.all.css">
+    <link rel="stylesheet" type="text/css" href="/data/site/prettyPhoto/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    
+    <!--[if IE]>
+       <link href="/msie.css" type="text/css" rel="stylesheet">
+    <![endif]-->
+    <!--[if IE 7]>
+       <link href="/msie7.css" type="text/css" rel="stylesheet">
+    <![endif]-->
+    <!--[if lt IE 7]>
+       <link href="/msie6.css" type="text/css" rel="stylesheet">
+    <![endif]-->
+    <link rel="icon" href="/images/site2/favicon.png" type="image/png">
+
+
+    <script type="text/javascript" src="/data/site/jquery/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/data/site/prettyPhoto/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="/data/site/scripts.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+        <script type="text/javascript" src="/data/syntaxhighlighter/scripts/all.js"></script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21626945024/abcl_full', [468, 60], 'div-gpt-ad-1601725271682-0').addService(googletag.pubads());
+    googletag.defineSlot('/21626945024/abcl_l01', [250, 250], 'div-gpt-ad-1601725365659-0').addService(googletag.pubads());
+    googletag.defineSlot('/21626945024/abcl_r01', [[250, 250], [300, 300]], 'div-gpt-ad-1601725524881-0').addService(googletag.pubads());
+    googletag.defineSlot('/21626945024/abcl_r02', [300, 300], 'div-gpt-ad-1601725638851-0').addService(googletag.pubads());
+    googletag.defineSlot('/21626945024/abcl_vip', [[250, 250], [250, 360]], 'div-gpt-ad-1601725728700-0').addService(googletag.pubads());
+    googletag.defineSlot('/21626945024/abcl_lead', [750, 100], 'div-gpt-ad-1601725842245-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+    <script type="text/javascript">
+    	Page = new Object();
+    </script>
+</head>
+
+<body id="www-abclinuxu-cz">
+
+<!-- the advertisement position netmonitor is not active -->
+<!-- error: no variant available for position 'ad-init', code 'null' -->
+<!-- ad position 'sf-lista' -->
+<div class="sflista">
+     <div class="ri">
+    	<!--<a href="http://www.stickfish.com" title="Guarantee business interface.">
+	<img src="/images/site2/sflista/sf.gif" alt="Guarantee business interface."> stickfish.com</a>-->
+     </div>
+     <div class="le">
+        <a href="http://www.abclinuxu.cz" title="Linux na stříbrném podnose."><img src="/images/site2/sflista/ab.gif" alt="abclinuxu.cz"> AbcLinuxu.cz</a>
+        <a href="http://www.itbiz.cz" title="IT business."><img src="/images/site2/sflista/ib.gif" alt="itbiz.cz"> ITBiz.cz</a>
+        <a href="http://www.hdmag.cz/" title="HDmag.cz | Vysoké rozlišení od začátku do konce. Blu-ray filmy, přehrávače, HDTV, HD audio a video, PlayStation 3..."><img src="/images/site2/sflista/hd.gif" alt="HDmag.cz"> HDmag.cz</a>
+        <a href="http://www.abcprace.cz" title="Spojujeme lidi s prací v IT!"><img src="/images/site2/sflista/pr.gif" alt="abcprace.cz"> AbcPráce.cz</a>
+     </div>
+    <div class="cistic"></div>
+</div>
+<!-- ad position 'leaderboard' -->
+<!-- /21626945024/abcl_lead -->
+<div id='div-gpt-ad-1601725842245-0' style='width: 750px; height: 100px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1601725842245-0'); });
+  </script>
+</div>
+<!--
+<center><a href="https://www.zebra.cz/cloudflare/"><img src="https://tpc.googlesyndication.com/pimgad/11478564232472252513"></a></center>
+-->
+<center><a href="https://www.acronis.cz/produkt/acronis-cyber-protect-home-office/"><img src="https://tpc.googlesyndication.com/pimgad/15800280963086253910"></a></center>
+<div id="zh-kont">
+    <div id="zh-text" class="zh-box">
+<!-- ad position 'zahl-vlevo' -->
+<div id="zh-tema">
+<!--<table border="0" cellpadding="0" cellspacing="0">
+<tr><td colspan="6">Sledujte AbcLinuxu.cz na:</td></tr>
+<tr>
+<td><img src="/images/site2/facebook-favicon.gif" alt="facebook favicon logo"></td>
+<td class="reverse_anchor">&nbsp;<a href="http://www.facebook.com/pages/AbcLinuxucz/68355234681">Facebooku</a>,&nbsp;</td>
+
+<td><img src="/images/site2/twitter-favicon.gif" alt="twitter favicon logo"></td>
+<td class="reverse_anchor">&nbsp;<a href="http://twitter.com/abclinuxu">Twitteru</a>, &nbsp;</td>
+
+<td><img src="/images/site2/identica-favicon.gif" alt="identi.ca favicon logo"></td>
+<td class="reverse_anchor">&nbsp;<a href="http://identi.ca/abclinuxu">Identi.ca</a>, &nbsp;</td>
+
+<td><img src="/images/site2/feed16.png" alt="rss logo"></td>
+<td class="reverse_anchor">&nbsp;<a href="/napoveda/rss-a-jine-pristupy">RSS</a></td>
+
+</tr>
+</table>-->
+
+
+<div style="line-height: 35px"><img src="/images/site2/sflista/ab.gif" style="vertical-align: middle">AbcLinuxu <a href="/portal/wiki/namety-na-clanky">hledá autory</a>!</div>
+
+
+</div><!-- ad position 'zahl-vpravo' -->
+<div id="zh-ad" style="line-height:35px">
+   <!--<a href="/clanky/openmagazin-3-2010"><img class="zh-iko" src="/images/clanky/redakce/openmagazin-logo-90x45.png" alt="openmagazin logo" width="90" height="45"></a>
+    <a href="/clanky/openmagazin-3-2010">openMagazin 3/2010</a>-->
+    <!--<a href="/clanky/anketa-o-distribuci-2010"><img class="zh-iko" src="/images/clanky/redakce/distribuce-roku-2010-logo-41x45.png" alt="distribuce roku 2010" width="41" height="45"></a>
+    <a href="/clanky/anketa-o-distribuci-2010"><b>Hlasujte</b> o nejoblíbenější distribuci!</a>-->
+
+<img src="/images/site2/sflista/pr.gif" alt="" style="vertical-align: middle"> <!--<a href="/blog/doli/2011/8/abclinuxu-hleda-autory">Pište</a> pro AbcLinuxu!-->
+<a href="http://www.abcprace.cz/co-nabizime/">Inzerujte</a> na AbcPráce.cz od 950&nbsp;Kč
+</div><!-- the advertisement position zahl-komplet is not active -->    </div>
+    <div id="zh-logo" class="zh-box"><a href="/"></a></div>
+    <div id="zh-hledani" class="zh-box">
+        <form action="/hledani" method="get">
+            <div>
+                <input type="text" class="text" name="dotaz">
+                <input class="button" type="submit" value="Hledej">
+            </div>
+        </form>
+        <a href="/hledani?action=toAdvanced">Rozšířené hledání</a>
+    </div>
+</div>
+<div class="cistic"></div>
+
+<div id="menu-wrap">
+<b style="font-size:0px;display:block; background:transparent;">
+ <b class="roh1"></b><b class="roh2"></b>
+</b>
+<div class="menu-kont">
+
+<ul class="menu" id="menu">
+<li><a href="/poradna">Poradna</a>
+  <ul>
+    <li><a href="/poradna/linux">Linuxová poradna</a></li>
+    <li><a href="/poradna/databaze">Databázová poradna</a></li>
+    <li><a href="/poradna/programovani">Programovací poradna</a></li>
+    <li><a href="/poradna/hardware">Hardwarová poradna</a></li>
+    <li><a href="/poradna/unix">Unixová poradna</a></li>
+  </ul></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/hardware">Hardware</a>
+  <ul>
+    <li><a href="/ovladace">Ovladače</a></li>
+    <li><a href="/hardware/procesory">Procesory</a></li>
+    <li><a href="/hardware/pridavne-karty">Přídavné karty</a></li>
+    <li><a href="/hardware/pripojeni-na-sit">Připojení na síť</a></li>
+    <li><a href="/hardware/prislusenstvi">Příslušenství</a></li>
+    <li><a href="/hardware/sestavy">Sestavy</a></li>
+    <li><a href="/hardware/ukladani-dat">Ukládání dat</a></li>
+    <li><a href="/hardware/vstupni-zarizeni">Vstupní zařízení</a></li>
+    <li><a href="/hardware/vystupni-zarizeni">Výstupní zařízení</a></li>
+    <li><a href="/hardware/zakladni-desky">Základní desky</a></li>
+  </ul></li>
+<li><a href="/software">Software</a>
+  <ul>
+    <li><a href="/software/alternativy">Alternativy k aplikacím</a></li>
+    <li><a href="/software/bezpecnost">Bezpečnost</a></li>
+    <li><a href="/software/grafika">Grafika</a></li>
+    <li><a href="/software/hobby">Hobby</a></li>
+    <li><a href="/software/hry">Hry</a></li>
+    <li><a href="/software/internet">Internet</a></li>
+    <li><a href="/software/kancelar">Kancelář</a></li>
+    <li><a href="/software/multimedia">Multimédia</a></li>
+    <li><a href="/software/nastroje">Nástroje</a></li>
+    <li><a href="/software/pracovni-prostredi">Pracovní prostředí</a></li>
+    <li><a href="/software/programovani">Programování</a></li>
+    <li><a href="/software/server">Server</a></li>
+    <li><a href="/software/soubory">Soubory</a></li>
+    <li><a href="/software/system">Systém</a></li>
+    <li><a href="/software/vzdelavani">Vzdělávání</a></li>
+    <li><a href="/software/veda">Věda</a></li>
+  </ul></li>
+<li><a href="/clanky">Články</a>
+  <ul>
+    <li><a href="/clanky/bezpecnost">Bezpečnost</a></li>
+    <li><a href="/clanky/hardware">Hardware</a></li>
+    <li><a href="/clanky/hry-a-zabava">Hry a zábava</a></li>
+    <li><a href="/clanky/jaderne-noviny">Jaderné noviny</a></li>
+    <li><a href="/clanky/multimedia">Multimédia</a></li>
+    <li><a href="/clanky/navody">Návody</a></li>
+    <li><a href="/clanky/novinky">Novinky</a></li>
+    <li><a href="/clanky/programovani">Programování</a></li>
+    <li><a href="/clanky/recenze">Recenze</a></li>
+    <li><a href="/clanky/rozhovory">Rozhovory</a></li>
+    <li><a href="/clanky/ruzne">Různé</a></li>
+    <li><a href="/clanky/site">Sítě</a></li>
+    <li><a href="/clanky/system">Systém</a></li>
+    <li><a href="/clanky/tipy">Tipy a triky</a></li>
+    <li><a href="/clanky/pr" style="border-width:3px">Tiskové zprávy</a></li>
+    <li><a href="/serialy">Seriály</a></li>
+  </ul></li>
+<li><a href="/ucebnice">Učebnice</a>
+  <ul>
+    <li><a href="/ucebnice/uvod">Úvod</a></li>
+    <li><a href="/ucebnice/obsah">Obsah</a></li>
+    <li><a href="/ucebnice/historie">Historie Linuxu</a></li>
+    <li><a href="/ucebnice/zaklady">Základy Linuxu</a></li>
+    <li><a href="/ucebnice/prehled-prikazu">Přehled příkazů</a></li>
+  </ul></li>
+<li><a href="/blog">Blogy</a>
+  <ul>
+    <li><a href="/blog/vyber">Výběr (linuxové)</a></li>
+    <li><a href="/blog/souhrn">Stručný souhrn</a></li>
+    <li><a href="/blogy">Seznam blogů</a></li>
+  </ul></li>
+<li>
+    <a href="/skupiny">Skupiny</a>
+    <ul>
+                    <li><a href="/portal">Portál</a></li>
+            <li><a href="/tex">TeX</a></li>
+            <li><a href="/ubuntu-cz">Ubuntu - Linux pro lidi</a></li>
+            <li><a href="/arch-linux">Arch Linux</a></li>
+            <li><a href="/datove-schranky">Datové schránky</a></li>
+    </ul>
+</li>
+<li><a href="/desktopy">Desktopy</a></li>
+<li><a href="/hry">Hry</a></li>
+<li><a href="/slovnik">Slovník</a></li>
+<li><a href="/kdo-je">Kdo je</a></li>
+<li><a href="/bazar">Bazar</a></li>
+<li><a href="/">Portál</a>
+  <ul>
+    <li><a href="/nej">Žebříčky a statistiky</a></li>
+    <li><a href="/clanky/novinky/pojdte-psat-pro-abclinuxu.cz">Jak se stát autorem</a></li>
+    <li><a href="/redakce">Redakce</a></li>
+    <li><a href="/portal/propagace">Propagace</a></li>
+    <li><a href="/reklama">Inzerce</a></li>
+    <li><a href="/napoveda/rss-a-jine-pristupy">RSS feedy a PDA</a></li>
+    <li><a href="http://bugzilla.abclinuxu.cz"  title="Požadavky týkající se funkčnosti portálu" rel="nofollow">Bugzilla - chyby a náměty</a></li>
+    <li><a href="/pozadavky" title="Požadavky týkající se obsahu portálu">Vzkazy správcům (29)</a></li>
+    <li><a href="/vyvoj">Zdrojové kódy</a></li>
+    <li><a href="javascript:addSidebar();">Přidej sidebar</a></li>
+    <li><a href="javascript:addBookmark();">Přidej mezi oblíbené</a></li>
+    <li><a href="javascript:setHomepage();">Nastav jako domácí stránku</a></li>
+  </ul></li>
+<li><a href="http://www.abcprace.cz">Práce</a></li>
+<li><a href="/napoveda/mapa-serveru" title="Mapa stránek a dalších služeb">Mapa</a></li>
+</ul>
+
+</div>
+</div>
+<!--[if IE]><br style="font-size:0"><![endif]-->
+
+<div class="obal">
+
+    <div class="hl">
+        <div class="hl_vpravo">
+                <a href="/Profile;jsessionid=1cdianmy5a3h31um3kqw6wr5yk?action=login">Přihlášení</a> |
+                <a href="/EditUser;jsessionid=1cdianmy5a3h31um3kqw6wr5yk?action=register">Registrace</a>
+        </div>
+        <div class="hl_vlevo">
+            <ul class="menu-top">
+                <li>
+                    <a href="/doc/napoveda/alternativni-design">Styl</a>
+                    <ul class="menu-drop">
+                        <li>
+                            <a href="/EditUser/?action=changeStyle&amp;css=">Standardní světlý</a>
+                        </li>
+                        <li>
+                            <a href="/EditUser/?action=changeStyle&amp;css=/styles-dark.css">Oficiální tmavý</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="ls_prepinac" title="Skrýt sloupec" onclick="prepni_sloupec()">&#215;</div>
+
+    <div class="obal_ls" id="ls">
+        <div class="s">
+<!-- the advertisement position vip is not active --><!-- the advertisement position vip-text is not active --><!-- error: no variant available for position 'itbiz', code 'null' -->
+            <!-- ZPRÁVIČKY -->
+            <div class="s_nadpis">
+                <a class="s_nadpis-pravy-odkaz" href="/zpravicky/edit;jsessionid=1cdianmy5a3h31um3kqw6wr5yk?action=add">napište &raquo;</a>
+                <a href="/zpravicky" title="zprávičky">Zprávičky</a>
+            </div>
+
+<!-- ad position 'hypertext1' -->
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/21626945024/abcl_l01', [250, 250]).display();
+</script>
+
+<a href="https://www.zebra.cz/produkty-n-able/"><img src="https://tpc.googlesyndication.com/pimgad/2449476706769671133"></a>
+
+<!-- abcprace.cz -->
+<div class="s_nadpis noext">
+   <a href="http://www.abcprace.cz/co-nabizime/" class="s_nadpis-pravy-odkaz">inzerujte »</a>
+   <a href="http://www.abcprace.cz" title="Spojujeme lidi s prací v IT.">Pracovní nabídky</a>
+</div>
+
+<div class="s_sekce noext">
+   <ul></ul></div>
+            <div class="s_sekce">
+                <div class="ls_zpr">
+
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860">Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860</a>
+        </div>
+    <span>dnes 22:33 | Bezpečnostní upozornění</span>
+        <div class="zpr_telo"><p>Flatpak 1.12.3 a 1.10.6 <a href="https://github.com/flatpak/flatpak/security/advisories/GHSA-qpjc-vq3c-572j">řeší bezpečnostní chybu</a> <a href="https://security-tracker.debian.org/tracker/CVE-2021-43860">CVE-2021-43860</a>. Oprávnění zobrazována při instalaci aplikace se nemusela shodovat se skutečnými požadovanými oprávněními. Aplikaci tak mohla být udělena oprávnění, se kterými by uživatel nesouhlasil.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+<!-- the advertisement position sl-box1 is not active -->
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/rust-1.58.0" title="Rust 1.58.0">Rust 1.58.0</a>
+        </div>
+    <span>dnes 20:44 | Nová verze</span>
+        <div class="zpr_telo"><p><a href="https://blog.rust-lang.org/2022/01/13/Rust-1.58.0.html">Byla vydána</a> verze 1.58.0 programovacího jazyka <a href="/software/programovani/jazyky/rust">Rust</a> (<a href="https://cs.wikipedia.org/wiki/Rust_(programovac%C3%AD_jazyk)">Wikipedie</a>). Podrobnosti v <a href="https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1580-2022-01-13">poznámkách k vydání</a>. Vyzkoušet Rust lze například na stránce <a href="https://doc.rust-lang.org/stable/rust-by-example/">Rust by Example</a>.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/rust-1.58.0" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+<!-- the advertisement position sl-box2 is not active -->
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="Aktuální stav přepisu desktopového prostředí COSMIC do Rustu">Aktuální stav přepisu desktopového prostředí COSMIC do Rustu</a>
+        </div>
+    <span>dnes 17:33 | Komunita</span>
+        <div class="zpr_telo"><p>Pop!_OS je linuxová distribuce vycházející z Ubuntu předinstalována na počítačích společnosti System76. Její vývojáři v listopadu loňského roku <a href="/zpravicky/pop-os-bude-mit-vlastni-desktopove-prostredi-napsane-v-rustu">oznámili</a>, že své desktopové prostředí <a href="/zpravicky/cosmic-nove-desktopove-prostredi-v-pop-os">COSMIC</a> vycházející z GNOME Shellu přepíšou do Rustu. Eduardo Flores v <a href="https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/">příspěvku na svém blogu</a> informuje o aktuálním stavu.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="poslední&nbsp;dnes 21:42">Komentářů:&nbsp;5</a></span>
+                    <hr>
+<!-- error: no variant available for position 'sl-mini', code 'null' -->
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/nvidia-sponzorem-obs-50-000-dolaru-rocne" title="NVIDIA sponzorem OBS, 50 000 dolarů ročně">NVIDIA sponzorem OBS, 50 000 dolarů ročně</a>
+        </div>
+    <span>dnes 08:00 | Komunita</span>
+        <div class="zpr_telo"><p>Vývojáři svobodného softwaru pro streamování a nahrávání videa <a href="https://obsproject.com/">OBS</a> (Open Broadcaster Software) na Twitteru <a href="https://twitter.com/OBSProject/status/1481398401317093378">oznámili</a>, že společnost NVIDIA je jejich novým diamantovým <a href="https://obsproject.com/contribute">sponzorem</a>. Přislíbeno mají 50 000 dolarů ročně.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/nvidia-sponzorem-obs-50-000-dolaru-rocne" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+<!-- ad position 'skyscraper' -->
+<a href="http://www.entec.cz/novy-sonicwall-firewall-nsa-2700_ma301.html"><img src="https://tpc.googlesyndication.com/pimgad/6045836659791325479"></a><!-- the advertisement position double-sky is not active -->
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/ipython-8.0" title="IPython 8.0">IPython 8.0</a>
+        </div>
+    <span>včera 19:22 | Nová verze</span>
+        <div class="zpr_telo"><p><a href="/software/system/prikazove-interprety/ipython">IPython</a> (<a href="https://en.wikipedia.org/wiki/IPython">Wikipedie</a>), interaktivní shell pro Python, byl vydán ve verzi 8.0. Přehled novinek v <a href="https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef">příspěvku na blogu</a>.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/ipython-8.0" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/detekce-a-varovani-pred-zranitelnostmi-typu-trojan-source-v-gcc-12" title="Detekce a varování před zranitelnostmi typu Trojan Source v GCC 12">Detekce a varování před zranitelnostmi typu Trojan Source v GCC 12</a>
+        </div>
+    <span>včera 18:33 | Zajímavý článek</span>
+        <div class="zpr_telo"><p>David Malcolm se v <a href="https://developers.redhat.com/articles/2022/01/12/prevent-trojan-source-attacks-gcc-12">příspěvku na blogu Red Hat Developer</a> rozepsal o detekci a varování před zranitelnostmi typu <a href="/zpravicky/trojan-source-attacks">Trojan Source</a> v GCC 12. </p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/detekce-a-varovani-pred-zranitelnostmi-typu-trojan-source-v-gcc-12" title="poslední&nbsp;dnes 21:14">Komentářů:&nbsp;10</a></span>
+                    <hr>
+
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/pinephone-pro-je-v-prodeji" title="PinePhone Pro je v prodeji">PinePhone Pro je v prodeji</a>
+        </div>
+    <span>včera 13:22 | Zajímavý projekt</span>
+        <div class="zpr_telo"><p>Cílem PinePhone Pro stejně jako jeho předchůdce je poskytnout platformu pro běh linuxových distribucí nezávislých na Androidu.  <a href="https://pine64.com/product/pinephone-pro-explorer-edition/">PinePhone Pro Explorer Edition</a> je možné objednat za 399 dolarů. K němu je možné dokoupit i různé zadní kryty: s klávesnicí, s čtečkou otisků prstů, bezdrátovým nabíjením nebo LORA modulem. V tuto chvíli se jedná spíše o vývojový kit než o funkční telefon.</p></div>
+    <span><a href="/lide/joejoe">joejoe</a>
+    | <a href="/zpravicky/pinephone-pro-je-v-prodeji" title="poslední&nbsp;dnes 17:14">Komentářů:&nbsp;23</a></span>
+                    <hr>
+
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/tails-4.26" title="Tails 4.26">Tails 4.26</a>
+        </div>
+    <span>včera 07:00 | Nová verze</span>
+        <div class="zpr_telo"><p><a href="https://tails.boum.org/news/version_4.26/index.en.html">Byla vydána</a> nová verze 4.26 živé linuxové distribuce <a href="https://tails.boum.org/">Tails</a> (The Amnesic Incognito Live System), jež klade důraz na ochranu soukromí uživatelů a anonymitu. Přehled změn v <a href="https://gitlab.tails.boum.org/tails/tails/-/blob/master/debian/changelog">příslušném seznamu</a>. <a href="/software/internet/www/tor-browser">Tor Browser</a> byl aktualizován na verzi <a href="https://blog.torproject.org/new-release-tor-browser-1104/">11.0.4</a>, …</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/tails-4.26" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+<!-- the advertisement position sl-dole is not active -->
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/anaconda-bude-webova" title="Anaconda bude webová">Anaconda bude webová</a>
+        </div>
+    <span>11.1. 23:22 | Komunita</span>
+        <div class="zpr_telo"><p><a href="https://communityblog.fedoraproject.org/anaconda-is-getting-a-new-suit/">Příspěvek na Fedora Community Blogu</a> informuje o rozhodnutí, že nová Anaconda bude webová. <a href="https://fedoraproject.org/wiki/Anaconda">Anaconda</a> je instalátor požívaný v linuxových distribucích Fedora, RHEL nebo CentOS.</p></div>
+    <span><a href="/lide/ladislav.hagara">Ladislav Hagara</a>
+    | <a href="/zpravicky/anaconda-bude-webova" title="poslední&nbsp;dnes 18:51">Komentářů:&nbsp;38</a></span>
+                    <hr>
+
+        <div class="st_nadpis no_overflow">
+            <a href="/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022" title="Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022">Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022</a>
+        </div>
+    <span>11.1. 21:00 | Zajímavý článek</span>
+        <div class="zpr_telo"><p>Web Libre Arts <a href="https://librearts.org/2022/01/2021-recap-2022-preview/">shrnuje</a> svobodný software pro audio-/vizuální tvorbu vydaný v roce 2021 a novinky očekávané v roce 2022.</p></div>
+    <span><a href="/lide/davkol">Fluttershy, yay!</a>
+    | <a href="/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022" title="">Komentářů:&nbsp;0</a></span>
+                    <hr>
+                </div>
+                <div class="s_odkaz">
+                    <a href="/zpravicky">Centrum</a> |
+                    <a href="/zpravicky/edit;jsessionid=1cdianmy5a3h31um3kqw6wr5yk?action=add" rel="nofollow">Napsat</a> |
+                    <a href="/History?type=news&amp;from=10&amp;count=15">Starší</a>
+                </div>
+            </div>
+
+            <!-- ANKETA -->
+
+                <div class="s_nadpis">
+                   <a class="s_nadpis-pravy-odkaz" href="/pozadavky?categoryPosition=0">navrhněte&nbsp;&raquo;</a>
+                   <a href="/ankety">Anketa</a>
+                </div>
+                <div class="s_sekce">
+                    <form action="/EditPoll/475657;jsessionid=1cdianmy5a3h31um3kqw6wr5yk" method="POST">
+                     <div class="ank-otazka">Jestliže jste používali distribuci CentOS Linux, jejíž konec byl <a href="/zpravicky/konec-centosu-jak-jej-zname-dnes">oznámen před rokem</a>, kam jste přešli?</div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="0">CentOS Stream</label>&nbsp;(<span title="44">35%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 35px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="1">RHEL (včetně bezplatných licencí)</label>&nbsp;(<span title="2">2%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 2px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="2">AlmaLinux</label>&nbsp;(<span title="9">7%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 7px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="3">Rocky Linux</label>&nbsp;(<span title="20">16%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 16px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="4">jiné alternativní sestavení RHEL</label>&nbsp;(<span title="1">1%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 1px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="5">stále CentOS Linux</label>&nbsp;(<span title="6">5%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 5px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                        <div class="ank-odpov">
+                          <label><input type="radio" name="voteId" value="6">jinou distribuci</label>&nbsp;(<span title="45">35%</span>)<br>
+                          <div class="ank-sloup-okraj" style="width: 35px">
+                            <div class="ank-sloup"></div>
+                          </div>
+                        </div>
+                     <div>
+                      <input name="submit" type="submit" class="button" value="Hlasuj" alt="Hlasuj">
+                        Celkem 127 hlasů
+                      <input type="hidden" name="url" value="/ankety/konec-centos-rok-pote">
+                      <input type="hidden" name="action" value="vote">
+                     </div>
+                    </form>
+                </div>
+                <div>&nbsp;<a href="/ankety/konec-centos-rok-pote">Komentářů: 13</a>, poslední 9.1. 21:09
+<!-- the advertisement position anketa is not active -->                </div>
+
+<!-- the advertisement position sl-jobscz is not active --><!-- error: no variant available for position 'sl-abcprace', code 'null' -->
+                    <!-- ROZCESTNÍK -->
+                    <div class="s_nadpis">Rozcestník</div>
+                    <div class="s_sekce">
+                        <div class="rozc">
+                                <a class="server" href="/presmeruj?class=S&amp;id=7&amp;url=http%3A%2F%2Fwww.abclinuxu.cz">AbcLinuxu</a><br>
+                                <ul>
+                                    <li>
+                                        <a href="/presmeruj?class=S&amp;id=7&amp;url=http%3A%2F%2Fwww.abclinuxu.cz%2Fclanky%2Fdistribucni-novinky-50-52-2021">Distribuční novinky 50-52/2021</a>
+                                    </li>
+                                    <li>
+                                        <a href="/presmeruj?class=S&amp;id=7&amp;url=http%3A%2F%2Fwww.abclinuxu.cz%2Fclanky%2Fjaderne-noviny-prehled-za-prosinec-2021">Jaderné noviny – přehled za prosinec 2021</a>
+                                    </li>
+                                </ul>
+                                <a class="server" href="/presmeruj?class=S&amp;id=42&amp;url=http%3A%2F%2Fhdmag.cz%2F">HDmag.cz</a><br>
+                                <ul>
+                                    <li>
+                                        <a href="/presmeruj?class=S&amp;id=42&amp;url=http%3A%2F%2Fhdmag.cz%2Fclanek%2Fkamery-do-bytu-prinesou-maximalni-prehled-o-vasi-domacnosti">Kamery do bytu přinesou maximální přehled o vaší domácnosti</a>
+                                    </li>
+                                    <li>
+                                        <a href="/presmeruj?class=S&amp;id=42&amp;url=http%3A%2F%2Fhdmag.cz%2Fclanek%2Ftestovaci-novinka">Testovací novinka</a>
+                                    </li>
+                                </ul>
+                        </div>
+                    </div>
+
+<!-- error: no variant available for position 'sl-doporucujeme', code 'null' -->
+<!-- the advertisement position sl-placene-odkazy is not active -->
+        </div> <!-- s -->
+    </div> <!-- obal_ls -->
+
+
+    <div class="st" id="st">
+        <a name="obsah"></a>
+
+<!-- the advertisement position obsah-box is not active -->
+            <div class="pwd-box">
+                <div class="do-zalozek">
+                </div>
+                <div class="pwd">
+                    <a href="/">AbcLinuxu</a>:/
+                        <a href="/clanky;jsessionid=1cdianmy5a3h31um3kqw6wr5yk">Články</a>
+                        
+                </div>
+            </div>
+
+
+
+<div class="no-col-ad">
+<!-- the advertisement position hypertext2nahore is not active --><!-- ad position 'square' -->
+<!-- 
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id="gpt-passback">
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/21626945024/abcl_r01', [[250, 250], [300, 300]], 'gpt-passback').addService(googletag.pubads());
+    googletag.enableServices();
+    googletag.display('gpt-passback');
+    });
+  </script>
+</div>
+-->
+<br>
+<a href="https://www.alza.cz/search.htm?exps=Acer%20swift%205#f&cst=null&cud=0&pg=1&prod=1354"><img src="
+https://tpc.googlesyndication.com/pimgad/14825569970727331140"></a><br>
+<br>
+<a href="http://www.entec.cz/huawei-fast-track-program-_ma346.html"><img src="
+https://tpc.googlesyndication.com/pimgad/4388625091298126550"></a>
+
+<!-- 
+<a href="https://solutions.helios.eu/?utm_source=itbiz.cz&utm_medium=display&utm_campaign=helios-2021&utm_content=ruce-300x600"><img src="
+https://tpc.googlesyndication.com/pimgad/4825419151458807106"></a>
+-->
+
+<!-- 
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/21626945024/abcl_r01', [300, 300]).display();
+</script>
+<br>
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/21626945024/abcl_r02', [300, 300]).display();
+</script>
+-->
+<!-- Kontextová reklama Sklik -->
+<!--
+<div id="sklikReklama_102425"></div>
+<script>
+	var sklikData = { elm: "sklikReklama_102425", zoneId: "102425", w: 300, h: 300 };
+</script>
+<script src="//c.imedia.cz/js/script.js"></script>
+--><!-- the advertisement position hypertext2dole is not active --></div>
+
+
+<h1>Archiv článků</h1>
+
+<!-- the advertisement position gg-sky is not active -->
+    
+    <h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-50-52-2021">Distribuční novinky 50-52/2021</a></h2>
+    <p class="st_perex"><p>Na období svátků a přelom roku se obvykle nashromáždí více distribucí se svými nejen novoročními občerstveními obrazů systému. Nejinak tomu bylo tentokrát, s odstupem byl vydán Pop!_OS, poměrně novou distribuci představuje Kaisen Linux, aktualizovány byly Citrix Hypervisor, Univention Corporate Server, ReactOS, Debian, elementary OS, IPFire, Manjaro, Neptune, Rescuezilla, siduction, NuTyX, Garuda nebo Slackel.</p></p>
+    <p class="meta-vypis">
+        11.1.2022 13:30 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    <div class="cl_thumbnail"><img src="/images/clanky/bourek/lwn-net-logo.png" alt="LWN.net logo"></div>
+    <h2 class="st_nadpis"><a href="/clanky/jaderne-noviny-prehled-za-prosinec-2021">Jaderné noviny – přehled za prosinec 2021</a></h2>
+    <p class="st_perex"><p>Přehled prosincových vydání Jaderných novin: stav vydání jádra, citát týdne a seznam článků týkajících se jádra.</p></p>
+    <p class="meta-vypis">
+        10.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Jaderné noviny
+        |     <a href="/clanky/jaderne-noviny-prehled-za-prosinec-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-jak-nepreplacet-cloud">Týden na ITBiz: Jak nepřeplácet cloud</a></h2>
+    <p class="st_perex"><p>Portfolio Lenovo pro malé a střední podniky inspirované novými trendy. Jak nepřeplácet cloud. Acer představuje výkonné přírůstky do řady Swift X. IT rozpočty na rok 2022.</p></p>
+    <p class="meta-vypis">
+        9.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-1-2022">Událo se v týdnu 1/2022</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        8.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-feromagneticky-uhlovodik-triangulen">Týden na ScienceMag.cz: feromagnetický uhlovodík triangulen</a></h2>
+    <p class="st_perex"><p>Černé díry o hmotnosti planet. Magnetické pole předpoví tsunami. Život v mracích Venuše. Oteplení a malá doba ledová. Obří skupina planet bez hvězdy. Exotický izotop hořčíku. Rok 2021 na Sciencemagu.</p></p>
+    <p class="meta-vypis">
+        7.1.2022 00:30 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-it-a-byznys-v-roce-2021">Týden na ITBiz: IT a byznys v roce 2021</a></h2>
+    <p class="st_perex"><p>IT a byznys v roce 2021: koronavirus, čipy, Čína a kdo zkrachuje příště. IT a věda v roce 2021: magnetismus a supravodivost. Cisco Talos: bezpečnostní přehled roku 2021. Archivní data budou nejvíce rostoucí třídou úložišť. AWS Local Zone v Česku.</p></p>
+    <p class="meta-vypis">
+        3.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-z-dejin-4.-rozmeru">Týden na ScienceMag.cz: Z dějin 4. rozměru</a></h2>
+    <p class="st_perex"><p>Detektory gravitačních vln a temná hmota. Pootočené dvojvrstvy podivně vedou teplo. Odchylky gravitačního pole mohou odpovídat ložiskům ropy a plynu. Koronavirus a věda. Modrý ohňostroj. Denisované, černé díry a míchání oleje s vodou.</p></p>
+    <p class="meta-vypis">
+        2.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/goodoffer24-ziskejte-windows-a-office-na-novy-rok-se-slevovym-kuponem-ax30-ceny-zacinaji-na-11-eur">GoodOffer24: Získejte Windows a Office na Nový rok se slevovým kupónem „AX30“, ceny začínají na 11 EUR</a></h2>
+    <p class="st_perex"><p>Windows 10 nebo raději hned Windows 11 z prodejního portálu GoodOffer24. Buď si vyberete podle svého uvážení, nebo přímo z níže uvedené nabídky produktů a bundlů. Když zadáte před dokončením nákupu slevový kupón AX30, máte ještě k tomu slevu 35 % z uvedené ceny na tomto prodejním portálu!</p></p>
+    <p class="meta-vypis">
+        1.1.2022 12:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-52-2022">Událo se v týdnu 52/2022</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        1.1.2022 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-jak-zabezpecit-firemni-vyvojove-prostredi">Týden na ITBiz: Jak zabezpečit firemní vývojové prostředí</a></h2>
+    <p class="st_perex"><p>Po 20 letech nový vítěz Indexu Tiobe: Python. Technologické trendy podle společnosti Cisco. Digitální měny se rozšíří v podnikové sféře. Jak zabezpečit firemní vývojové prostředí. Automatizace kontaktních center v Salesforce. Jak zajistit důvěryhodné využití AI.</p></p>
+    <p class="meta-vypis">
+        28.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-foton-muze-mit-vnitrni-strukturu">Týden na ScienceMag.cz: Foton může mít vnitřní strukturu</a></h2>
+    <p class="st_perex"><p>Obří černá díra v malé galaxii. Konec ostravského superpočítače Salomon. Exotická částice složená ze 4 neutronů, jiná ze 6 kvarků. Galaxie bez temné hmoty. Led na exoplanetách podobných Zemi. Antiferomagnet sestavený podle viru.</p></p>
+    <p class="meta-vypis">
+        27.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-51-2021">Událo se v týdnu 51/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        25.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/udalo-se-v-tydnu-51-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-48-49-2021">Distribuční novinky 48-49/2021</a></h2>
+    <p class="st_perex"><p>Zatímco do středoevropských končin dorazilo zimní počasí přišel na internet nový CentOS Stream 9 nebo také pravidelná vydání řádky distribucí: 4MLinux, NixOS, EndeavourOS, OpenIndiana, FreeBSD, Tails, Calculate Linux, Zorin OS Lite a nakonec Kali Linux.</p></p>
+    <p class="meta-vypis">
+        23.12.2021 23:00 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/distribucni-novinky-48-49-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-kvantove-pocitace-se-mohou-kontrolovat-navzajem">Týden na ITBiz: Kvantové počítače se mohou kontrolovat navzájem</a></h2>
+    <p class="st_perex"><p>Volá vám voicebot? Může jít o zneužití dvoufázového ověření. Metaversum prý může být rájem zločinců. HeliosS iNuvio – řešení pro byznys v terénu. Kvantové počítače se mohou kontrolovat navzájem. Proč může modernizace IT selhávat a jak tomu zabránit?</p></p>
+    <p class="meta-vypis">
+        20.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-kvantove-pocitace-se-mohou-kontrolovat-navzajem/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-boseho-einsteinuv-kondenzat-z-excitonu-a-pri-vyssi-teplote">Týden na ScienceMag.cz: Boseho-Einsteinův kondenzát z excitonů a při vyšší teplotě</a></h2>
+    <p class="st_perex"><p>Magnetismus „bez spinů“ objevili i v grafenu. Temnou hmotu by mohly tvořit mraky bosonů. Povaha čísel. Jaderná energie na Měsíci a Marsu. Cykly uhlíku a křemíku na exoplanetách. Slunce jako původce pozemské vody. Pfizer vs. Moderna.</p></p>
+    <p class="meta-vypis">
+        19.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-boseho-einsteinuv-kondenzat-z-excitonu-a-pri-vyssi-teplote/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-50-2021">Událo se v týdnu 50/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        18.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/udalo-se-v-tydnu-50-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/goodoffer24-akce-x-39-mas-ziskejte-windows-10-pro-za-12-eur-office-2021-pro-za-41-eur-a-windows-11-zdarma">GoodOffer24 Akce X&#39;MAS: Získejte Windows 10 Pro za 12 EUR, Office 2021 Pro za 41 EUR a Windows 11 zdarma!</a></h2>
+    <p class="st_perex"><p>Windows 10 stále živé na trhu, upgrade na Windows 11 přichází. Prodejní portál GoodOffer24 nabízí obojí. Buď si vyberete podle svého uvážení, nebo přímo z níže uvedené nabídky produktů a bundlů. Když zadáte před dokončením nákupu slevový kupón AX30, máte dalších 35 % z ceny uvedené na portálu dolů!</p></p>
+    <p class="meta-vypis">
+        17.12.2021 16:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/nebojte-se-hlasit-na-seniornejsi-pozice-radi-it-pracovni-portal">Nebojte se hlásit na seniornější pozice, radí IT pracovní portál</a></h2>
+    <p class="st_perex"><p>Senior v IT. To zní docela dobře. Je to pozice, na kterou se asi těší většina začínajících IT profesionálů. Vždyť „Senior“ je i nejhledanější úrovní na pracovním portálu No Fluff Jobs. Jak určíme, kdo je senior? A kdo by se na seniorní pozice měl hlásit?</p></p>
+    <p class="meta-vypis">
+        16.12.2021 12:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-45-47-2021">Distribuční novinky 45-47/2021</a></h2>
+    <p class="st_perex"><p>Podzimní týdny přinesly Red Hat Enterprise Linux 8.5 s řadou alternativních sestavení včetně posledního CentOS Linuxu 8.x, nový Endless OS založený na Debianu „Bullseye“, oznámení Amazon Linuxu v jiné podobě, mezi aktualizovaný systémy byly mobilní Sailfish OS, specializované serverové distribuce Proxmox, desktopové Q4OS a deepin, multimediální Lakka a OSMC, Clonezilla live, dále IPFire či NuTyX.</p></p>
+    <p class="meta-vypis">
+        13.12.2021 02:30 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/distribucni-novinky-45-47-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-kubernetes-dulezita-role-day-2-operations">Týden na ITBiz: Kubernetes – důležitá role Day 2 Operations</a></h2>
+    <p class="st_perex"><p>Kde se potkává úložiště a výpočetní kapacita? Maximální míra automatizace se vyplatí. VMware Cross-Cloud zjednodušuje provoz v cloudu AWS. Třífázové modulární UPS Schneider Electric Galaxy VL. Kubernetes: Důležitá role Day 2 Operations.</p></p>
+    <p class="meta-vypis">
+        12.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-kubernetes-dulezita-role-day-2-operations/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-49-2021">Událo se v týdnu 49/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        11.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/udalo-se-v-tydnu-49-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-na-kvantovem-pocitaci-googlu-vytvorili-casovy-krystal">Týden na ScienceMag.cz: Na kvantovém počítači Googlu vytvořili časový krystal</a></h2>
+    <p class="st_perex"><p>Nejtvrdší sklo je z uhlíku, připravili ho z buckyballu. Může být černá díra v centru Galaxie hrozbou? Materiály s těžkými fermiony. Matematické pythagorejství. Kvantová superpozice času, ten pak „plyne oběma směry“. Falešné fosilie na Marsu.</p></p>
+    <p class="meta-vypis">
+        10.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-na-kvantovem-pocitaci-googlu-vytvorili-casovy-krystal/diskuse">Komentářů:&nbsp;1</a>, poslední&nbsp;dnes 00:06
+
+    </p>
+        <hr>
+    <div class="cl_thumbnail"><img src="/images/clanky/bourek/lwn-net-logo.png" alt="LWN.net logo"></div>
+    <h2 class="st_nadpis"><a href="/clanky/jaderne-noviny-prehled-za-listopad-2021">Jaderné noviny – přehled za listopad 2021</a></h2>
+    <p class="st_perex"><p>Přehled listopadových vydání Jaderných novin: stav vydání jádra, citát týdne a seznam článků týkajících se jádra.</p></p>
+    <p class="meta-vypis">
+        6.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Jaderné noviny
+        |     <a href="/clanky/jaderne-noviny-prehled-za-listopad-2021/diskuse">Komentářů:&nbsp;2</a>, poslední&nbsp;8.12.2021 10:45
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-trh-pc-roste-dokonce-i-desktopy">Týden na ITBiz: Trh PC roste, dokonce i desktopy</a></h2>
+    <p class="st_perex"><p>AI od firmy Konica Minolta proti požárům. Umělou inteligenci IDC umí „spočítat“. Důvody pro IT outsourcing se mění. Trh PC roste, dokonce i desktopy. Nový Veeam Backup & Replication v11a klade důraz na rozšířené možnosti cloudu.</p></p>
+    <p class="meta-vypis">
+        5.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-48-2021">Událo se v týdnu 48/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        4.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-prvni-feromagneticky-kvazikrystal">Týden na ScienceMag.cz: První feromagnetický kvazikrystal</a></h2>
+    <p class="st_perex"><p>Magneten, další 2D materiál, nabízí extrémně nízké tření. Neutrony tvoří na povrchu atomového jádra slupku. Atomová jádra tvaru ragbyového míče namísto koule. Jak snadno najít Tatooine. Jak vytvořit na Marsu umělé magnetické pole. Věda a koronavirus.</p></p>
+    <p class="meta-vypis">
+        3.12.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/goodoffer24-originalni-dozivotni-klic-windows-10-pro-pouze-11-63-plus-bezplatny-upgrade-na-windows-11-2">GoodOffer24: Originální doživotní klíč Windows 10 Pro pouze 11,63 € + bezplatný upgrade na Windows 11!</a></h2>
+    <p class="st_perex"><p>Windows 10 stále žije, Windows 11 přichází. Obojí máte možnost pořídit na GoodOffer24. Buď si vyberete podle svého uvážení, nebo přímo z níže uvedené nabídky produktů a bundlů. Když zadáte před dokončením nákupu slevový kupón AX30, máte dalších 35 % z ceny uvedné na portálu dolů!</p></p>
+    <p class="meta-vypis">
+        2.12.2021 16:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-ani-dvoufazove-overeni-uz-neni-zcela-bezpecne">Týden na ITBiz: Ani dvoufázové ověření už není zcela bezpečné</a></h2>
+    <p class="st_perex"><p>Jak z grafenu udělat izolant. Třetina zaměstnanců prý nedostala při přechodu na vzdálenou práci žádnou IT podporu ani školení. ERP páteří firemních procesů. Podnikové IT se stává službou – jako celek. Data ve vesmíru: Víc než jen raketová věda. Ani dvoufázové ověření už není zcela bezpečné. Jaké technologické trendy předpovídá Veeam pro rok 2022?</p></p>
+    <p class="meta-vypis">
+        28.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-ani-dvoufazove-overeni-uz-neni-zcela-bezpecne/diskuse">Komentářů:&nbsp;1</a>, poslední&nbsp;29.11.2021 12:54
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-47-2021">Událo se v týdnu 47/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        27.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-baterie-s-kremikovou-anodou">Týden na ScienceMag.cz: Baterie s křemíkovou anodou</a></h2>
+    <p class="st_perex"><p>Sigma-díry ukazují zvláštní chování elektrického náboje v atomech. Kde se ve vesmíru bere zlato nebo uran. Most z 3D tiskárny unese 300násobek vlastní hmotnosti. Obří koule čpavku. Kolísání magnetického pole a archeologické datování. COVID-19 a věk, COVID-19 a antidepresiva, COVID-19 a onkologie.</p></p>
+    <p class="meta-vypis">
+        26.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-baterie-s-kremikovou-anodou/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-muze-it-pozitivne-ovlivnit-emise-sklenikovych-plynu">Týden na ITBiz: Může IT pozitivně ovlivnit emise skleníkových plynů?</a></h2>
+    <p class="st_perex"><p>SAP uvádí nové nástroje pro low code/no code vývoj. Prognóza: Reakcí na kybernetický útok se brzy stane útok fyzický. Může IT pozitivně ovlivnit emise skleníkových plynů?</p></p>
+    <p class="meta-vypis">
+        21.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-muze-it-pozitivne-ovlivnit-emise-sklenikovych-plynu/diskuse">Komentářů:&nbsp;2</a>, poslední&nbsp;26.11.2021 13:18
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-46-2021">Událo se v týdnu 46/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        20.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-nanotycinky-blizko-sebe-mohou-odvadet-teplo-rychleji">Týden na ScienceMag.cz: Nanotyčinky blízko sebe mohou odvádět teplo rychleji</a></h2>
+    <p class="st_perex"><p>Paradoxní jev a chlazení elektroniky. Umělá inteligence a různé druhy logik. Magnetické skyrmiony. Kečup z vesmíru. Pikosekundová nelineární optoelektronika v grafenu.</p></p>
+    <p class="meta-vypis">
+        19.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/goodoffer24-originalni-dozivotni-klic-windows-10-pro-pouze-11-63-plus-bezplatny-upgrade-na-windows-11">GoodOffer24: Originální doživotní klíč Windows 10 Pro pouze 11,63 € + bezplatný upgrade na Windows 11!</a></h2>
+    <p class="st_perex"><p>Stáhněte si z prodejního portálu GoodOffer24.com originální doživotní klíč k Windows 10 Pro za pouhých 11,63 € s nabídkou bezplatného upgradu na Windows 11! Když zadáte před dokončením nákupu na GoodOffer24.com slevový kód AX30, máte z níže uvedené nabídky dalších 35 % slevu!</p></p>
+    <p class="meta-vypis">
+        18.11.2021 12:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/cesky-it-profik-vic-nez-67-tisic-mesicne">Český IT profík – víc než 67 tisíc měsíčně</a></h2>
+    <p class="st_perex"><p>Třetina českých IT profesionálů vydělává víc než 67 000 korun čistého měsíčně. Vyplývá to z rozsáhlého průzkumu společnosti No Fluff Jobs, kterého se účastnilo 4 185 IT profesionálů, z toho téměř 800 Čechů. Region střední a východní Evropy je proto podle společnosti No Fluff Jobs pro místní IT odborníky velmi lukrativní.</p></p>
+    <p class="meta-vypis">
+        16.11.2021 16:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/red-hat-se-spolehl-na-brno-a-prahu">Red Hat se spolehl na Brno a Prahu</a></h2>
+    <p class="st_perex"><p>Tedy, spolehl se na výzkum a vývoj v brněnském centru R&D, které je s 1 500 lidmi celosvětově největším technologickým centrem Red Hatu a kde jsou zastoupeny všechny profese, spolupracuje s FEL ČVUT v Praze, FIT VUT v Brně. Jaký software zde vyvíjí, kdo jsou jeho zákazníci, jaké problémy řeší, i na to jsme se ptali Davida Bečvaříka, Country Managera Red Hat Česká republika a Slovensko.</p></p>
+    <p class="meta-vypis">
+        15.11.2021 00:01 |
+                <a href="/autori/richard-voigts">Richard  Voigts</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-voiceboty-a-kontaktni-centra">Týden na ITBiz: Voiceboty a kontaktní centra</a></h2>
+    <p class="st_perex"><p>Jak najít rovnováhu mezi přínosy a riziky edge computingu. Voiceboty a kontaktní centra. Helios iNuvio pomáhá firmám s automatizací a centralizací. Stephen Leonard o IBM Power10. Elektromobilita podle Huawei.</p></p>
+    <p class="meta-vypis">
+        14.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-45-2021">Událo se v týdnu 45/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        13.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-jak-odparit-kov-pri-nizke-teplote">Týden na ScienceMag.cz: Jak odpařit kov při nízké teplotě</a></h2>
+    <p class="st_perex"><p>Sterilní neutrina. Účinnost různých perovskitů v solárních článcích. Obří simulace vesmíru a temné hmoty. Exoplaneta z cizí galaxie. Svítící rostliny. Mikroorganismy mohou vytvářet čistý uhlík.</p></p>
+    <p class="meta-vypis">
+        12.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-jak-odparit-kov-pri-nizke-teplote/diskuse">Komentářů:&nbsp;3</a>, poslední&nbsp;18.11.2021 02:21
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-43-44-2021">Distribuční novinky 43-44/2021</a></h2>
+    <p class="st_perex"><p>Vydání Fedora Linux 35 bylo odloženo až na začátek listopadu. Dále podzimní dny přinesly finální, na Linuxu založený TrueNAS SCALE, naopak oznámení konce Project Trident, přechod antiX či Raspberry Pi OS na Debian „Bullseye“ a řadu opravných vydání: OpenWrt, Trisquel, Tails nebo LibreELEC.</p></p>
+    <p class="meta-vypis">
+        9.11.2021 02:00 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/distribucni-novinky-43-44-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    <div class="cl_thumbnail"><img src="/images/clanky/bourek/lwn-net-logo.png" alt="LWN.net logo"></div>
+    <h2 class="st_nadpis"><a href="/clanky/jaderne-noviny-prehled-za-rijen-2021">Jaderné noviny – přehled za říjen 2021</a></h2>
+    <p class="st_perex"><p>Přehled říjnových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.</p></p>
+    <p class="meta-vypis">
+        8.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Jaderné noviny
+        |     <a href="/clanky/jaderne-noviny-prehled-za-rijen-2021/diskuse">Komentářů:&nbsp;2</a>, poslední&nbsp;12.11.2021 13:37
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-antiferomagnety-opet-ukazaly-svuj-potencial-pro-ukladani-dat">Týden na ITBiz: Antiferomagnety opět ukázaly svůj potenciál pro ukládání dat</a></h2>
+    <p class="st_perex"><p>Antiferomagnety opět ukázaly svůj potenciál pro ukládání dat. Prodeje osobních počítačů v nejbližším období. Firmy v Česku přecházejí na hybridní datová centra. Umělá inteligence se stále vyvíjí. Banky volí cloud, prý ale hrozí systémové riziko. Tiskárny během lockdownů a poté (4) Trendy.</p></p>
+    <p class="meta-vypis">
+        7.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-antiferomagnety-opet-ukazaly-svuj-potencial-pro-ukladani-dat/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-44-2021">Událo se v týdnu 44/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        6.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/udalo-se-v-tydnu-44-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-nejdokonalejsi-grafen">Týden na ScienceMag.cz: Nejdokonalejší grafen</a></h2>
+    <p class="st_perex"><p>Kolik bitů se vejde do vesmíru? Jak se programuje automobil. Algoritmy v naší hlavě a chůze městem. Heliové hvězdy, svlečené hvězdy a obří neutronové hvězdy. Svítící DNA.</p></p>
+    <p class="meta-vypis">
+        5.11.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-nejdokonalejsi-grafen/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/goodoffer24-nemate-windows-11-vezmete-si-svuj-licencni-kod-za-12-eur">GoodOffer24: Nemáte Windows 11? Vezměte si svůj licenční kód za 12 eur</a></h2>
+    <p class="st_perex"><p>Kupte doživotní licenci Windows 11 nebo Windows 10 a další software na GoodOffer24.com. Můžete si vybrat z nabízených bundlů, nebo projet celý tento prodejní web. Hlavně nezapomeňte zadat před dokončením nákupu slevový kód AX30, na který získáte další slevu 35 %.</p></p>
+    <p class="meta-vypis">
+        1.11.2021 12:00 |
+                <a href="/autori/-reklama">  Reklama</a>
+             | Reklama
+        
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-tiskarny-behem-lockdownu-a-pote-ceny">Týden na ITBiz: Tiskárny během lockdownů a poté – ceny</a></h2>
+    <p class="st_perex"><p>Polovina ajťáků v Praze vydělá 100 a více tisíc měsíčně. Notebooky a PC v uplynulém období. Dell rozšiřuje IT kapacity směrem na periferii. Servery Lenovo nově v portfoliu Entec Solutions. Hrozby na vzestupu: útoky na dodavatelské řetězce a krádeže výpočetních kapacit. Tiskárny během lockdownů a poté (3) Ceny.</p></p>
+    <p class="meta-vypis">
+        31.10.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-tiskarny-behem-lockdownu-a-pote-ceny/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-43-2021">Událo se v týdnu 43/2021</a></h2>
+    <p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+    <p class="meta-vypis">
+        30.10.2021 00:01 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/udalo-se-v-tydnu-43-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-umela-inteligence-a-rekurzivni-sebezdokonalovani">Týden na ScienceMag.cz: Umělá inteligence a rekurzívní sebezdokonalování</a></h2>
+    <p class="st_perex">Poločas rozpadu neutronu. Máme se bát, pokud umělá inteligence navrhne jinou umělou inteligenci? Superionický led. Počátky počítačů na Slovensku. Na Venuši žádné oceány být nemusely.</p>
+    <p class="meta-vypis">
+        29.10.2021 18:30 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-sciencemag.cz-umela-inteligence-a-rekurzivni-sebezdokonalovani/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-41-42-2021">Distribuční novinky 41-42/2021</a></h2>
+    <p class="st_perex"><p>V říjnu bylo dosud vydáno Ubuntu 21.10, OpenBSD 7.0 nebo ruská, na Mandrivě založená ROSA Fresh Desktop R12. Na Debian „Bullseye“ přešly jeho deriváty bez systemd Devuan a MX Linux. Také byly aktualizovány distribuce KaOS, GhostBSD, Porteus Kiosk, Redcore Linux či NuTyX.</p></p>
+    <p class="meta-vypis">
+        26.10.2021 18:00 |
+                <a href="/autori/redakce">Redakce</a>
+             | Novinky
+        |     <a href="/clanky/distribucni-novinky-41-42-2021/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+    
+    <h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-organizace-letos-vynalozi-na-technologie-podporujici-budoucnost-prace-656-miliard-dolaru">Týden na ITBiz: Organizace letos vynaloží na technologie podporující budoucnost práce 656 miliard dolarů</a></h2>
+    <p class="st_perex"><p>Red Hat novými aktualizacemi podporuje edge computing. Organizace letos vynaloží na technologie podporující budoucnost práce 656 miliard dolarů. HPE GreenLake přináší inovativní architekturu správy dat. Tiskárny během lockdownů a poté (2) Nedostatek dílů.</p></p>
+    <p class="meta-vypis">
+        24.10.2021 16:00 |
+                <a href="/autori/redakce">Redakce</a>
+             | Různé
+        |     <a href="/clanky/tyden-na-itbiz-organizace-letos-vynalozi-na-technologie-podporujici-budoucnost-prace-656-miliard-dolaru/diskuse">Komentářů:&nbsp;0</a>
+
+    </p>
+        <hr>
+
+<form action="/History">
+<table border="0">
+<tr>
+    <th>Pozice</th>
+    <th>Počet</th>
+    <th>Řadit podle</th>
+    <th>Směr</th>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><input type="text" size="4" value="0" name="from" tabindex="1"></td>
+    <td><input type="text" size="3" value="50" name="count" tabindex="2"></td>
+    <td><select name="orderBy" tabindex="3"><option value="create">data publikování</option></select></td>
+    <td>
+        <select name="orderDir" tabindex="4">
+            <option value="desc">sestupně</option>
+            <option value="asc">vzestupně</option>
+        </select>
+    </td>
+    <td><input type="submit" value="Zobrazit"></td>
+</tr>
+</table>
+
+<input type="hidden" name="type" value="articles">
+
+</form>
+
+0 &lt;&lt;
+
+0-50
+
+    <a href="/History?type=articles&amp;from=50&amp;count=50&amp;orderBy=create&amp;orderDir=desc">&gt;&gt;</a>
+    <a href="/History?type=articles&amp;from=6013&amp;count=50&amp;orderBy=create&amp;orderDir=desc">6063</a>
+
+	</div> <!-- st -->
+
+    <div class="s_nadpis linkbox_nadpis">Píšeme jinde</div>
+    
+    <div class="dl noext">
+		<div class="dl_vlevo">ISSN 1214-1267 &nbsp;
+			<a href="http://czech-server.cz" title="Czech Server">www.czech-server.cz</a>
+        </div>
+		<div class="dl_vpravo">
+            <a href="/redakce">Redakce</a> |
+            <a href="/reklama">Inzerce</a> |
+            <a href="/doc/podminky-pouziti">Podmínky použití</a> |
+            <a href="/doc/osobni-udaje">Osobní údaje</a>
+        </div>
+		&copy; 1999-2015 <a href="http://www.nitemedia.cz">Nitemedia s. r. o.</a> Všechna práva vyhrazena.
+	</div>
+
+</div> <!-- obal -->
+
+<!-- ad position 'gg-anal' -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3151434-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script><!-- ad position 'ad-end' -->
+<!-- BBelements one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<!-- https://go.eu.bbelements.com/bb/bb_one2n.js -->
+<script type="text/javascript" charset='utf-8' src="https://go.eu.bbelements.com/bb/bb_one2n.js"></script>
+
+<script type='text/javascript'>/* <![CDATA[ */ 
+bmone2n.addPosition('14398.1.4.64','');
+bmone2n.addPosition('14398.1.2.64','');
+bmone2n.addPosition('14398.1.3.64','');
+bmone2n.addPosition('14398.1.5.64','');
+bmone2n.addPosition('14398.1.7.64','');
+bmone2n.addPosition('14398.1.8.1','');
+bmone2n.addPosition('14398.1.1.2','');
+bmone2n.addPosition('14398.2.8.1','');
+bmone2n.addPosition('14398.2.4.64','');
+bmone2n.addPosition('14398.2.2.64','');
+bmone2n.addPosition('14398.2.3.64','');
+bmone2n.addPosition('14398.2.5.64','');
+bmone2n.addPosition('14398.2.7.64','');
+bmone2n.addPosition('14398.2.1.2','');
+bmone2n.addPosition('14398.2.8.1','');
+bmone2n.addPosition('14398.2.14.2','');
+bmone2n.addPosition('14398.1.14.2','');
+bmone2n.addPosition('14398.1.4.7','');
+bmone2n.addPosition('14398.2.4.1','');
+
+
+bmone2n.getAd('go.eu.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-14398.1.8.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.8.1'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.4.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.4.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.2.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.2.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.3.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.3.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.5.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.5.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.7.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.7.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.1.2'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.8.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.8.1'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.4.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.4.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.2.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.2.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.3.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.3.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.5.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.5.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.7.64' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.7.64'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.1.2'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.14.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.14.2'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.14.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.14.2'); /* ]]> */</script></div>
+<div id='bmone2t-14398.1.4.7' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.1.4.7'); /* ]]> */</script></div>
+<div id='bmone2t-14398.2.4.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('14398.2.4.1'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+</body>
+</html>
