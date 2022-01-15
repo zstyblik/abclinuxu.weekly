@@ -1,0 +1,63 @@
+<h1>Archiv článků</h1>
+
+<!-- the advertisement position gg-sky is not active -->
+
+<h2 class="st_nadpis"><a href="/clanky/distribucni-novinky-50-52-2021">Distribuční novinky 50-52/2021</a></h2>
+<p class="st_perex"><p>Na období svátků a přelom roku se obvykle nashromáždí více distribucí se svými nejen novoročními občerstveními obrazů systému. Nejinak tomu bylo tentokrát, s odstupem byl vydán Pop!_OS, poměrně novou distribuci představuje Kaisen Linux, aktualizovány byly Citrix Hypervisor, Univention Corporate Server, ReactOS, Debian, elementary OS, IPFire, Manjaro, Neptune, Rescuezilla, siduction, NuTyX, Garuda nebo Slackel.</p></p>
+<p class="meta-vypis">
+11.1.2022 13:30 |
+<a href="/autori/redakce">Redakce</a>
+| Novinky
+
+</p>
+<hr>
+<div class="cl_thumbnail"><img src="/images/clanky/bourek/lwn-net-logo.png" alt="LWN.net logo"></div>
+<h2 class="st_nadpis"><a href="/clanky/jaderne-noviny-prehled-za-prosinec-2021">Jaderné noviny – přehled za prosinec 2021</a></h2>
+<p class="st_perex"><p>Přehled prosincových vydání Jaderných novin: stav vydání jádra, citát týdne a seznam článků týkajících se jádra.</p></p>
+<p class="meta-vypis">
+10.1.2022 00:01 |
+<a href="/autori/redakce">Redakce</a>
+| Jaderné noviny
+|     <a href="/clanky/jaderne-noviny-prehled-za-prosinec-2021/diskuse">Komentářů:&nbsp;0</a>
+
+</p>
+<hr>
+
+<h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-jak-nepreplacet-cloud">Týden na ITBiz: Jak nepřeplácet cloud</a></h2>
+<p class="st_perex"><p>Portfolio Lenovo pro malé a střední podniky inspirované novými trendy. Jak nepřeplácet cloud. Acer představuje výkonné přírůstky do řady Swift X. IT rozpočty na rok 2022.</p></p>
+<p class="meta-vypis">
+9.1.2022 00:01 |
+<a href="/autori/redakce">Redakce</a>
+| Různé
+
+</p>
+<hr>
+
+<h2 class="st_nadpis"><a href="/clanky/udalo-se-v-tydnu-1-2022">Událo se v týdnu 1/2022</a></h2>
+<p class="st_perex">Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.</p>
+<p class="meta-vypis">
+8.1.2022 00:01 |
+<a href="/autori/redakce">Redakce</a>
+| Novinky
+
+</p>
+<hr>
+
+<h2 class="st_nadpis"><a href="/clanky/tyden-na-sciencemag.cz-feromagneticky-uhlovodik-triangulen">Týden na ScienceMag.cz: feromagnetický uhlovodík triangulen</a></h2>
+<p class="st_perex"><p>Černé díry o hmotnosti planet. Magnetické pole předpoví tsunami. Život v mracích Venuše. Oteplení a malá doba ledová. Obří skupina planet bez hvězdy. Exotický izotop hořčíku. Rok 2021 na Sciencemagu.</p></p>
+<p class="meta-vypis">
+7.1.2022 00:30 |
+<a href="/autori/redakce">Redakce</a>
+| Různé
+
+</p>
+<hr>
+
+<h2 class="st_nadpis"><a href="/clanky/tyden-na-itbiz-it-a-byznys-v-roce-2021">Týden na ITBiz: IT a byznys v roce 2021</a></h2>
+<p class="st_perex"><p>IT a byznys v roce 2021: koronavirus, čipy, Čína a kdo zkrachuje příště. IT a věda v roce 2021: magnetismus a supravodivost. Cisco Talos: bezpečnostní přehled roku 2021. Archivní data budou nejvíce rostoucí třídou úložišť. AWS Local Zone v Česku.</p></p>
+<p class="meta-vypis">
+3.1.2022 00:01 |
+<a href="/autori/redakce">Redakce</a>
+| Různé
+
+</p>

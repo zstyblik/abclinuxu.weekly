@@ -1,0 +1,193 @@
+<h1>Archiv zpráviček</h1>
+
+<h3 class="st_nadpis"><a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860">Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860</a></h3>
+<p><p>Flatpak 1.12.3 a 1.10.6 <a href="https://github.com/flatpak/flatpak/security/advisories/GHSA-qpjc-vq3c-572j">řeší bezpečnostní chybu</a> <a href="https://security-tracker.debian.org/tracker/CVE-2021-43860">CVE-2021-43860</a>. Oprávnění zobrazována při instalaci aplikace se nemusela shodovat se skutečnými požadovanými oprávněními. Aplikaci tak mohla být udělena oprávnění, se kterými by uživatel nesouhlasil.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 22:33 |
+<a href="/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860" title="Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/rust-1.58.0" title="Rust 1.58.0">Rust 1.58.0</a></h3>
+<p><p><a href="https://blog.rust-lang.org/2022/01/13/Rust-1.58.0.html">Byla vydána</a> verze 1.58.0 programovacího jazyka <a href="/software/programovani/jazyky/rust">Rust</a> (<a href="https://cs.wikipedia.org/wiki/Rust_(programovac%C3%AD_jazyk)">Wikipedie</a>). Podrobnosti v <a href="https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1580-2022-01-13">poznámkách k vydání</a>. Vyzkoušet Rust lze například na stránce <a href="https://doc.rust-lang.org/stable/rust-by-example/">Rust by Example</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 20:44 |
+<a href="/zpravicky/rust-1.58.0" title="Rust 1.58.0">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="Aktuální stav přepisu desktopového prostředí COSMIC do Rustu">Aktuální stav přepisu desktopového prostředí COSMIC do Rustu</a></h3>
+<p><p>Pop!_OS je linuxová distribuce vycházející z Ubuntu předinstalována na počítačích společnosti System76. Její vývojáři v listopadu loňského roku <a href="/zpravicky/pop-os-bude-mit-vlastni-desktopove-prostredi-napsane-v-rustu">oznámili</a>, že své desktopové prostředí <a href="/zpravicky/cosmic-nove-desktopove-prostredi-v-pop-os">COSMIC</a> vycházející z GNOME Shellu přepíšou do Rustu. Eduardo Flores v <a href="https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/">příspěvku na svém blogu</a> informuje o aktuálním stavu.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 17:33 |
+<a href="/zpravicky/aktualni-stav-prepisu-desktopoveho-prostredi-cosmic-do-rustu" title="Aktuální stav přepisu desktopového prostředí COSMIC do Rustu">Komentáře: 5</a>, poslední dnes 21:42
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/nvidia-sponzorem-obs-50-000-dolaru-rocne" title="NVIDIA sponzorem OBS, 50 000 dolarů ročně">NVIDIA sponzorem OBS, 50 000 dolarů ročně</a></h3>
+<p><p>Vývojáři svobodného softwaru pro streamování a nahrávání videa <a href="https://obsproject.com/">OBS</a> (Open Broadcaster Software) na Twitteru <a href="https://twitter.com/OBSProject/status/1481398401317093378">oznámili</a>, že společnost NVIDIA je jejich novým diamantovým <a href="https://obsproject.com/contribute">sponzorem</a>. Přislíbeno mají 50 000 dolarů ročně.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | dnes 08:00 |
+<a href="/zpravicky/nvidia-sponzorem-obs-50-000-dolaru-rocne" title="NVIDIA sponzorem OBS, 50 000 dolarů ročně">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/ipython-8.0" title="IPython 8.0">IPython 8.0</a></h3>
+<p><p><a href="/software/system/prikazove-interprety/ipython">IPython</a> (<a href="https://en.wikipedia.org/wiki/IPython">Wikipedie</a>), interaktivní shell pro Python, byl vydán ve verzi 8.0. Přehled novinek v <a href="https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef">příspěvku na blogu</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | včera 19:22 |
+<a href="/zpravicky/ipython-8.0" title="IPython 8.0">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/detekce-a-varovani-pred-zranitelnostmi-typu-trojan-source-v-gcc-12" title="Detekce a varování před zranitelnostmi typu Trojan Source v GCC 12">Detekce a varování před zranitelnostmi typu Trojan Source v GCC 12</a></h3>
+<p><p>David Malcolm se v <a href="https://developers.redhat.com/articles/2022/01/12/prevent-trojan-source-attacks-gcc-12">příspěvku na blogu Red Hat Developer</a> rozepsal o detekci a varování před zranitelnostmi typu <a href="/zpravicky/trojan-source-attacks">Trojan Source</a> v GCC 12. </p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | včera 18:33 |
+<a href="/zpravicky/detekce-a-varovani-pred-zranitelnostmi-typu-trojan-source-v-gcc-12" title="Detekce a varování před zranitelnostmi typu Trojan Source v GCC 12">Komentáře: 10</a>, poslední dnes 21:14
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/pinephone-pro-je-v-prodeji" title="PinePhone Pro je v prodeji">PinePhone Pro je v prodeji</a></h3>
+<p><p>Cílem PinePhone Pro stejně jako jeho předchůdce je poskytnout platformu pro běh linuxových distribucí nezávislých na Androidu.  <a href="https://pine64.com/product/pinephone-pro-explorer-edition/">PinePhone Pro Explorer Edition</a> je možné objednat za 399 dolarů. K němu je možné dokoupit i různé zadní kryty: s klávesnicí, s čtečkou otisků prstů, bezdrátovým nabíjením nebo LORA modulem. V tuto chvíli se jedná spíše o vývojový kit než o funkční telefon.</p></p>
+<p class="meta-vypis">
+<a href="/lide/joejoe">joejoe</a> | včera 13:22 |
+<a href="/zpravicky/pinephone-pro-je-v-prodeji" title="PinePhone Pro je v prodeji">Komentáře: 23</a>, poslední dnes 17:14
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/tails-4.26" title="Tails 4.26">Tails 4.26</a></h3>
+<p><p><a href="https://tails.boum.org/news/version_4.26/index.en.html">Byla vydána</a> nová verze 4.26 živé linuxové distribuce <a href="https://tails.boum.org/">Tails</a> (The Amnesic Incognito Live System), jež klade důraz na ochranu soukromí uživatelů a anonymitu. Přehled změn v <a href="https://gitlab.tails.boum.org/tails/tails/-/blob/master/debian/changelog">příslušném seznamu</a>. <a href="/software/internet/www/tor-browser">Tor Browser</a> byl aktualizován na verzi <a href="https://blog.torproject.org/new-release-tor-browser-1104/">11.0.4</a>, …</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | včera 07:00 |
+<a href="/zpravicky/tails-4.26" title="Tails 4.26">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/anaconda-bude-webova" title="Anaconda bude webová">Anaconda bude webová</a></h3>
+<p><p><a href="https://communityblog.fedoraproject.org/anaconda-is-getting-a-new-suit/">Příspěvek na Fedora Community Blogu</a> informuje o rozhodnutí, že nová Anaconda bude webová. <a href="https://fedoraproject.org/wiki/Anaconda">Anaconda</a> je instalátor požívaný v linuxových distribucích Fedora, RHEL nebo CentOS.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 11.1.2022 23:22 |
+<a href="/zpravicky/anaconda-bude-webova" title="Anaconda bude webová">Komentáře: 38</a>, poslední dnes 18:51
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022" title="Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022">Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022</a></h3>
+<p><p>Web Libre Arts <a href="https://librearts.org/2022/01/2021-recap-2022-preview/">shrnuje</a> svobodný software pro audio-/vizuální tvorbu vydaný v roce 2021 a novinky očekávané v roce 2022.</p></p>
+<p class="meta-vypis">
+<a href="/lide/davkol">Fluttershy, yay!</a> | 11.1.2022 21:00 |
+<a href="/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022" title="Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/firefox-96.0" title="Firefox 96.0">Firefox 96.0</a></h3>
+<p><p>Byl vydán Mozilla Firefox 96.0. Přehled novinek v <a href="https://www.mozilla.org/firefox/96.0/releasenotes/">poznámkách k vydání</a>, <a href="https://support.mozilla.org/en-US/kb/firefox-enterprise-96-release-notes">poznámkách k vydání pro firmy</a> a na <a href="https://developer.mozilla.org/Firefox/Releases/96">stránce věnované vývojářům</a>. Řešeny jsou také <a href="https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox96">bezpečnostní chyby</a>. Nejnovější Firefox bude k dispozici také na <a href="https://flathub.org/apps/details/org.mozilla.firefox">Flathubu</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 11.1.2022 15:11 |
+<a href="/zpravicky/firefox-96.0" title="Firefox 96.0">Komentáře: 41</a>, poslední dnes 21:49
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/pred-deviti-lety-navzdy-odesel-aaron-swartz" title="Před devíti lety navždy odešel Aaron Swartz">Před devíti lety navždy odešel Aaron Swartz</a></h3>
+<p><p>Před devíti lety, ve svých šestadvaceti letech, navždy odešel <a href="https://cs.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>, výjimečný americký hacker (programátor), spisovatel, archivář, politický organizátor a internetový aktivista. Aaron Swartz založil Demand Progress, spolupracoval na projektech Open Library, Internet Archive a Reddit. Ve svých čtrnácti se podílel na specifikaci RSS 1.0. Vytvořil webový framework web.py, pracoval na tor2web a rozšíření HTTPS Everywhere pro Chrome. Stál u zrodu licence Creative Commons. Aaronovi Swartzovi hrozilo 35 let vězení a pokuta milion dolarů za hromadné stahování vědeckých článků z webu JSTOR. Dle přátel i vlastních výpovědí několik posledních let trpěl depresemi. V pátek 11. ledna 2013 ukončil svůj život oběšením.</p></p>
+<p class="meta-vypis">
+<a href="/lide/davkol">Fluttershy, yay!</a> | 11.1.2022 14:44 |
+<a href="/zpravicky/pred-deviti-lety-navzdy-odesel-aaron-swartz" title="Před devíti lety navždy odešel Aaron Swartz">Komentáře: 10</a>, poslední včera 16:53
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/python-programovacim-jazykem-roku-2021-dle-tiobe-indexu" title="Python programovacím jazykem roku 2021 dle TIOBE Indexu">Python programovacím jazykem roku 2021 dle TIOBE Indexu</a></h3>
+<p><p>Byl aktualizován <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a> (<a href="https://cs.wikipedia.org/wiki/TIOBE_index">Wikipedie</a>). Programovacím jazykem roku 2021 byl vyhlášen programovací jazyk Python. Jeho popularita vzrostla meziročně o 1,86 procentního bodu. Aktuální žebříček popularity programovacích jazyků vede Python následovaný jazyky C, Java, C++, C#, …</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 10.1.2022 20:22 |
+<a href="/zpravicky/python-programovacim-jazykem-roku-2021-dle-tiobe-indexu" title="Python programovacím jazykem roku 2021 dle TIOBE Indexu">Komentáře: 28</a>, poslední dnes 08:57
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/linux-5.16" title="Linux 5.16">Linux 5.16</a></h3>
+<p><p>Po 10 týdnech vývoje od vydání Linuxu <a href="/zpravicky/linux-5.15">5.15</a> oznámil Linus Torvalds vydání Linuxu 5.16 (<a href="https://lkml.org/lkml/2022/1/9/294">LKML</a>). Přehled nových vlastností a vylepšení na stránce <a href="https://kernelnewbies.org/Linux_5.16">Linux Kernel Newbies</a>. </p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 10.1.2022 08:00 |
+<a href="/zpravicky/linux-5.16" title="Linux 5.16">Komentáře: 2</a>, poslední 10.1. 22:32
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/nove-motoraky-ceskych-drah-nejdou-nastartovat-z-22-vlaku-jezdi-maximalne-dva" title="Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva">Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva</a></h3>
+<p><p>Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva. Od začátku ledna jim totiž <a href="https://twitter.com/CT24zive/status/1479396106618515457">vypršela platnost softwaru</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 22:22 |
+<a href="/zpravicky/nove-motoraky-ceskych-drah-nejdou-nastartovat-z-22-vlaku-jezdi-maximalne-dva" title="Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva">Komentáře: 369</a>, poslední dnes 20:28
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/vim-y" title="vim -y">vim -y</a></h3>
+<p><p>Pokud se vám už povedlo ukončit editor vim, zkuste to znovu a spusťte jej s volbou -y [<a href="https://learnbyexample.github.io/mini/vim-prank/">?</a>].</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 21:55 |
+<a href="/zpravicky/vim-y" title="vim -y">Komentáře: 15</a>, poslední včera 11:40
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/linux-mint-20.3-una" title="Linux Mint 20.3 Una">Linux Mint 20.3 Una</a></h3>
+<p><p>Byl vydán Linux Mint 20.3 s kódovým jménem Una. Na blogu Linux Mintu jsou hned tři oznámení. První o vydání Linux Mintu <a href="https://blog.linuxmint.com/?p=4220">s prostředím Cinnamon</a>, druhé o vydání Linux Mintu <a href="https://blog.linuxmint.com/?p=4219">s prostředím MATE</a> a třetí o vydání Linux Mintu <a href="https://blog.linuxmint.com/?p=4218">s prostředím Xfce</a>. Stejným způsobem jsou rozděleny také poznámky k vydání (<a href="https://www.linuxmint.com/rel_una_cinnamon.php">Cinnamon</a>, <a href="https://www.linuxmint.com/rel_una_mate.php">MATE</a>, <a href="https://www.linuxmint.com/rel_una_xfce.php">Xfce</a>) a přehled novinek s náhledy (<a href="https://www.linuxmint.com/rel_una_cinnamon_whatsnew.php">Cinnamon</a>, <a href="https://www.linuxmint.com/rel_una_mate_whatsnew.php">MATE</a>, <a href="https://www.linuxmint.com/rel_una_xfce_whatsnew.php">Xfce</a>). Linux Mint 20.3 bude podporován až do roku 2025.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 19:33 |
+<a href="/zpravicky/linux-mint-20.3-una" title="Linux Mint 20.3 Una">Komentáře: 2</a>, poslední 8.1. 16:47
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/vzdalene-ovladani-prehravacu-mpv-a-vlc" title="Vzdálené ovládání přehrávačů MPV a VLC">Vzdálené ovládání přehrávačů MPV a VLC</a></h3>
+<p><p>Lukáš Kotek se v článku na MojeFedora.cz věnuje <a href="https://mojefedora.cz/vzdalene-ovladani-prehravacu-mpv-a-vlc/">vzdálenému ovládání přehrávačů MPV a VLC</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 13:55 |
+<a href="/zpravicky/vzdalene-ovladani-prehravacu-mpv-a-vlc" title="Vzdálené ovládání přehrávačů MPV a VLC">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34" title="Webový prohlížeč Brave používá 50,2 milionů uživatelů měsíčně. Vydána verze 1.34">Webový prohlížeč Brave používá 50,2 milionů uživatelů měsíčně. Vydána verze 1.34</a></h3>
+<p><p>Vývojáři <a href="https://brave.com/">Brave</a> (<a href="https://cs.wikipedia.org/wiki/Brave_(webov%C3%BD_prohl%C3%AD%C5%BEe%C4%8D)">Wikipedie</a>, <a href="https://github.com/brave/brave-browser">GitHub</a>) oznámili, že tento webový prohlížeč používá již <a href="https://brave.com/2021-recap/">50,2 milionů aktivních uživatelů měsíčně a 15,5 milionů aktivních uživatelů denně</a>. V únoru loňského roku to bylo <a href="/zpravicky/webovy-prohlizec-brave-pouziva-25-milionu-uzivatelu-mesicne.-verze-1.19-podporuje-ipfs">25 milionů a 8 milionů</a>. Vydána byla nová verze <a href="https://brave.com/latest/">1.34</a>. Postavena je na Chromiu 97.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 08:00 |
+<a href="/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34" title="Webový prohlížeč Brave používá 50,2 milionů uživatelů měsíčně. Vydána verze 1.34">Komentáře: 16</a>, poslední 9.1. 15:24
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/notebook-dell-xps-13-plus" title="Notebook Dell XPS 13 Plus">Notebook Dell XPS 13 Plus</a></h3>
+<p><p>Představen byl notebook <a href="https://www.delltechnologies.com/en-us/blog/xps-13-reinvents-itself-embracing-simplicity-as-the-new-premium/">Dell XPS 13 Plus</a>, tj. nejnovější generace notebooků <a href="https://en.wikipedia.org/wiki/Dell_XPS#XPS_13">XPS 13</a> prodávaných také s předinstalovaným Ubuntu. S novou klávesnicí s velkými klávesami, bez fyzických F kláves a klávesy Esc, pouze s dotykovým funkčním řádkem.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 7.1.2022 07:00 |
+<a href="/zpravicky/notebook-dell-xps-13-plus" title="Notebook Dell XPS 13 Plus">Komentáře: 15</a>, poslední 7.1. 18:38
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/klavesnice-charachorder" title="Klávesnice CharaChorder">Klávesnice CharaChorder</a></h3>
+<p><p>Klávesnice <a href="https://www.charachorder.com/product-page/charachorder">CharaChorder</a> a <a href="https://www.charachorder.com/product-page/charachorder-lite">CharaChorder Lite</a> jsou klávesnice pro "psaní rychlostí myšlenky". Díky integrovanému softwaru lze dosáhnout rychlosti psaní <a href="https://www.charachorder.com/about-us">300 slov za minutu</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 6.1.2022 21:55 |
+<a href="/zpravicky/klavesnice-charachorder" title="Klávesnice CharaChorder">Komentáře: 18</a>, poslední dnes 12:20
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/ubuntu-touch-ota-21" title="Ubuntu Touch OTA-21">Ubuntu Touch OTA-21</a></h3>
+<p><p><a href="https://ubports.com/">UBports</a>, nadace a komunita kolem Ubuntu pro telefony a tablety <a href="https://cs.wikipedia.org/wiki/Ubuntu_Touch">Ubuntu Touch</a> (<a href="https://devices.ubuntu-touch.io/">seznam podporovaných zařízení</a>), vydala <a href="https://ubports.com/blog/ubports-news-1/post/ubuntu-touch-ota-21-release-3798">Ubuntu Touch OTA-21</a>. Nejnovější verze je pořád založena na Ubuntu 16.04. Pracuje se na přechodu na Ubuntu 20.04.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 6.1.2022 19:22 |
+<a href="/zpravicky/ubuntu-touch-ota-21" title="Ubuntu Touch OTA-21">Komentáře: 1</a>, poslední 8.1. 16:51
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/lazarus-2.2.0" title="Lazarus 2.2.0">Lazarus 2.2.0</a></h3>
+<p><p>Byla <a href="https://forum.lazarus.freepascal.org/index.php/topic,57752.0.html">vydána verze 2.2.0</a> multiplatformního integrovaného vývojového prostředí (IDE) pro rychlý vývoj aplikaci (RAD) ve Free Pascalu <a href="/software/programovani/ide/lazarus">Lazarus</a> (<a href="https://cs.wikipedia.org/wiki/Lazarus">Wikipedie</a>). Přehled novinek v <a href="https://wiki.lazarus.freepascal.org/Lazarus_2.2.0_release_notes">poznámkách k vydání</a>. Využíván je <a href="/software/programovani/kompilatory/free-pascal-compiler">Free Pascal Compiler</a> (FPC) 3.2.2.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 6.1.2022 08:00 |
+<a href="/zpravicky/lazarus-2.2.0" title="Lazarus 2.2.0">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/asus-zenbook-17-fold-oled-laptop" title="ASUS Zenbook 17 Fold OLED Laptop">ASUS Zenbook 17 Fold OLED Laptop</a></h3>
+<p><p>Po skládacích telefonech přichází skládací tablety a notebooky. ASUS představil 17,3 palcový <a href="https://www.youtube.com/watch?v=okourwo8sms">ASUS Zenbook 17 Fold OLED Laptop</a> složitelný na 12,5 palce.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 5.1.2022 23:44 |
+<a href="/zpravicky/asus-zenbook-17-fold-oled-laptop" title="ASUS Zenbook 17 Fold OLED Laptop">Komentáře: 3</a>, poslední 7.1. 10:07
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/devconf.cz-zverejnil-program-a-nabizi-posledni-moznost-zapojit-se-jako-prednasejici" title="DevConf.CZ zveřejnil program a nabízí poslední možnost zapojit se jako přednášející">DevConf.CZ zveřejnil program a nabízí poslední možnost zapojit se jako přednášející</a></h3>
+<p><p>Konference DevConf.cz zveřejnila <a href="https://devconfcz2022.sched.com">program na rok 2022</a>. Jako každý rok, i tentokrát se můžete těšit na 100+ přednášek, workshopů a meetupů, kde se dozvíte to nejnovější ze světa open source technologií. Konference bude letos podruhé v online formátu a organizátoři si pro vás připravili řadu dalších doprovodných aktivit. Letošní novinkou bude vlastní 8-bitova mapa na platformě <a href="https://workadventu.re/"> WorkAdventure</a>, kde se můžete setkat a komunikovat s ostaními přednášejícími a účastníky DevConfu. Konference se koná 28. - 29. ledna na virtuální platformě <a href="https://hopin.com/events/devconf-cz-2022/">Hopin</a>.</p>
+<p>Pokud jste promeškali možnost přihlásit svoji přednášku na podzim, DevConf.CZ otevírá poslední příležitost zapojit se do programu, a to prostřednictvím lightning talků. Natočte svůj lightning talk (v angličtině) v délce maximálně 5 minut a nahrajte video na <a href="https://cfp.devconf.info/">DevConf CfP portálu</a> do pátku 14. ledna 2022. Tématy se můžete inspirovat v <a href="https://devconfcz2022.sched.com">programu</a>.</p>
+<p>Na konferenci je třeba se zaregistrovat: <a href="https://hopin.com/events/devconf-cz-2022">https://hopin.com/events/devconf-cz-2022</a></p>
+<p>Nejaktuálnější informace sledujte na <a href="https://twitter.com/devconf_cz">Twitteru</a> nebo se přihlaste k odběru <a href="https://www.devconf.info/cz/">DevConf newsletteru</a>.</p></p>
+<p class="meta-vypis">
+<a href="/lide/dvolavko">Dorka</a> | 5.1.2022 18:00 |
+<a href="/zpravicky/devconf.cz-zverejnil-program-a-nabizi-posledni-moznost-zapojit-se-jako-prednasejici" title="DevConf.CZ zveřejnil program a nabízí poslední možnost zapojit se jako přednášející">Komentáře: 9</a>, poslední 6.1. 09:21
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/google-chrome-97" title="Google Chrome 97">Google Chrome 97</a></h3>
+<p><p>Google Chrome 97 byl <a href="https://chromereleases.googleblog.com/2022/01/stable-channel-update-for-desktop.html">prohlášen za stabilní</a>. Nejnovější stabilní verze 97.0.4692.71 přináší <a href="https://developer.chrome.com/tags/new-in-chrome/">řadu oprav a vylepšení</a> (<a href="https://www.youtube.com/watch?v=eXaog4gUIXI">YouTube</a>). Zdůraznit lze <a href="https://web.dev/webtransport/">WebTransport</a>. Opraveno bylo 37 bezpečnostních chyb. Vylepšeny byly také <a href="https://developer.chrome.com/blog/new-in-devtools-97/">nástroje pro vývojáře</a> (<a href="https://www.youtube.com/watch?v=cGotLGL1-Ko">YouTube</a>). Zdůraznit je nutno <a href="https://developer.chrome.com/docs/devtools/recorder/">Recorder</a> aneb možnost nahrávání a přehrávání chování uživatele na stránce.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 5.1.2022 08:00 |
+<a href="/zpravicky/google-chrome-97" title="Google Chrome 97">Komentáře: 0</a>
+</p>
+<hr>
+<h3 class="st_nadpis"><a href="/zpravicky/nitrophone-2-pro-google-pixel-6-pro-s-grapheneos" title="NitroPhone 2/Pro, Google Pixel 6/Pro s GrapheneOS">NitroPhone 2/Pro, Google Pixel 6/Pro s GrapheneOS</a></h3>
+<p><p>Společnost Nitrokey, známá svými stejnojmennými kryptografickými tokeny, představila v září loňského roku telefon <a href="/zpravicky/nitrophone-s-grapheneos">NitroPhone 1</a> aneb Google Pixel 4a bez Googlu, tj. ve výchozím stavu bez Google Play Services, a bez Androidu, ale s Androidu vycházejícím operačním systémem <a href="https://grapheneos.org/">GrapheneOS</a>. Dnes přestavila telefony <a href="https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates">NitroPhone 2 a NitroPhone 2 Pro</a> aneb Google Pixel 6 a Google Pixel 6 Pro s GrapheneOS. Jejich cena je   899 a 1255 eur. Za příplatek 300 eur budou z telefonů odstraněny mikrofony, senzory a kamery.</p></p>
+<p class="meta-vypis">
+<a href="/lide/ladislav.hagara">Ladislav Hagara</a> | 4.1.2022 22:22 |
+<a href="/zpravicky/nitrophone-2-pro-google-pixel-6-pro-s-grapheneos" title="NitroPhone 2/Pro, Google Pixel 6/Pro s GrapheneOS">Komentáře: 2</a>, poslední 5.1. 02:45
+</p>
