@@ -18,10 +18,12 @@ Yo Adrian, I did it!
 """
 import argparse
 import logging
+import math
 import re
 import smtplib
 import time
 from dataclasses import dataclass
+from datetime import datetime
 from email.message import EmailMessage
 from typing import List
 
@@ -338,9 +340,12 @@ def sendmail(
     Why isn't it implemented? Because I don't need it and nobody else is using
     this script.
     """
+    # Mimic Perl way
+    day_of_year = datetime.now().timetuple().tm_yday
+    week = day_of_year / 7.0
     subject = "AbcLinuxu {:s} {:s}/{:s}".format(
         fetch_type,
-        time.strftime("%W"),
+        "{:02.0f}".format(math.floor(week)),
         time.strftime("%Y"),
     )
     with smtplib.SMTP(host=host, port=port, timeout=SMTP_TIMEOUT) as server:
