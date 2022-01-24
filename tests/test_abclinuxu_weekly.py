@@ -254,7 +254,7 @@ def test_html_to_text():
 
 def test_sendmail(smtpserver):
     """Test that sendmail() works as expected."""
-    expected_email_subject = "AbcLinuxu zpravicky 06/2010"
+    expected_email_subject = "AbcLinuxu zpravicky 05/2010"
     expected_email_from = "pytest@localhost"
     expected_email_to = "pytest1@localhost"
     expected_email_payload = "pytest\ntest"
