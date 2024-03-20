@@ -1,4 +1,5 @@
 """Tests related to abclinuxu_weekly."""
+
 import os
 from datetime import datetime
 
