@@ -257,7 +257,7 @@ def test_sendmail(smtpserver):
     expected_email_subject = "AbcLinuxu zpravicky 05/2010"
     expected_email_from = "pytest@localhost"
     expected_email_to = "pytest1@localhost"
-    expected_email_payload = "pytest\ntest"
+    expected_email_payload = "pytest\r\ntest\r\n"
 
     with freeze_time("2010-02-10"):
         abclinuxu_weekly.sendmail(
