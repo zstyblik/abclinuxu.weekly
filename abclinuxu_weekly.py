@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Workaround https://github.com/psf/black/issues/4175
 """Get articles/news from AbcLinuxu.cz for past week from now and mail them.
 
 1. Get all articles/news from Abclinuxu.cz for past week from now

@@ -1,3 +1,4 @@
+# Workaround https://github.com/psf/black/issues/4175
 """Tests related to abclinuxu_weekly."""
 import os
 from datetime import datetime
