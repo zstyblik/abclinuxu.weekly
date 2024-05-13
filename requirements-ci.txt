@@ -6,7 +6,7 @@ flake8-docstrings
 flake8-import-order
 reorder-python-imports
 # tests
-freezegun==1.5.0
+freezegun==1.5.1
 pytest
 pytest-localserver[smtp]==0.8.1
 requests-mock==1.12.1
