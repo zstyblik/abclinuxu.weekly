@@ -8,5 +8,5 @@ reorder-python-imports
 # tests
 freezegun==1.5.1
 pytest
-pytest-localserver[smtp]==0.9.0
+pytest-localserver[smtp]==0.9.0.post0
 requests-mock==1.12.1
