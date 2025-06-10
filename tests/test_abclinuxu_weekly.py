@@ -11,7 +11,7 @@ import abclinuxu_weekly  # noqa: I202,I100
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
-@pytest.mark.parametrize("test_data", [("20.02.2010")])
+@pytest.mark.parametrize("test_data", ["20.02.2010"])
 def test_convert_date(test_data):
     """Test that convert_date() works as expected."""
     result = abclinuxu_weekly.convert_date(test_data)
