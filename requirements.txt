@@ -1,2 +1,2 @@
 html2text>=2020.1.16
-requests==2.32.4
+requests==2.32.5
