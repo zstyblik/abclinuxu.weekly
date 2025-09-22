@@ -98,15 +98,19 @@ class FetchType:
         if "|" not in text_line:
             return ""
 
-        cpos = text_line.index("|")
-        date_part = text_line[cpos + 2:]  # fmt:skip
-        if " " not in date_part:
-            return ""
+        splitted = text_line.split("|")
+        for chunk in splitted:
+            chunk = chunk.strip()
+            if " " not in chunk:
+                continue
 
-        cpos = date_part.index(" ")
-        date_found = date_part[0:cpos]
-        if date_found and RE_INT.search(date_found):
-            return date_found
+            cpos = chunk.index(" ")
+            date_found = chunk[0:cpos]
+            # NOTE(zstyblik): Unfortunately, I don't remember why exact date
+            # format cannot be matched here. However, it might be because date
+            # like "dnes 21:34" shows up.
+            if date_found and RE_INT.search(date_found):
+                return date_found
 
         return ""
 

@@ -104,6 +104,36 @@ def test_convert_date(test_data):
             "| a bcefg",
             "",
         ),
+        (
+            abclinuxu_weekly.FetchType(
+                collect_start="pytest",
+                fetch_type="zpravicky",
+                to_fetch="news",
+            ),
+            '<a href="/lide/abc">|&#x1f1f5;&#x1f1f8;</a> | 19.9.2025 05:11 |',
+            "19.9.2025",
+        ),
+        (
+            abclinuxu_weekly.FetchType(
+                collect_start="pytest",
+                fetch_type="zpravicky",
+                to_fetch="news",
+            ),
+            (
+                '<a href="/lide/flash.thunder">Flash Thunder</a> | '
+                "19.9.2025 12:22 |"
+            ),
+            "19.9.2025",
+        ),
+        (
+            abclinuxu_weekly.FetchType(
+                collect_start="pytest",
+                fetch_type="zpravicky",
+                to_fetch="news",
+            ),
+            '<a href="/lide/abc655">abc655</a> | 19.9.2025 12:55 |',
+            "19.9.2025",
+        ),
     ],
 )
 def test_fetchtype_extract_date(fetch_type, html_line, expected):
