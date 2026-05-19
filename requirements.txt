@@ -1,2 +1,2 @@
 html2text==2025.4.15
-requests==2.34.0
+requests==2.34.2
